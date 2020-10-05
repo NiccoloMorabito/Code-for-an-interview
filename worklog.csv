@@ -1,0 +1,2471 @@
+2012-03-13;30;Davide;Serio;Commesse;100.118
+2012-03-21;45;Davide;Serio;Commesse;100.118
+2012-03-21;15;Davide;Serio;Commesse;100.118
+2012-03-27;30;Davide;Serio;Commesse;100.118
+2012-12-04;60;Davide;Serio;Commesse;5162
+2012-04-04;60;Alberto;Franchi;Varie;5251
+2012-04-20;60;Davide;Bianchi;Varie;5269
+2012-04-23;90;Alberto;Franchi;Varie;5269
+2012-04-23;120;Davide;Bianchi;Varie;5269
+2012-03-26;60;Alberto;Bianchi;Riunione interna;5275
+2012-03-28;60;Alberto;Bianchi;Riunione con cliente;5275
+2012-07-03;60;Alberto;Bianchi;Commerciale;5275
+2012-08-27;60;Alberto;Bianchi;Service;5275
+2012-04-19;60;Alberto;Bianchi;Service;5290
+2012-06-06;30;Alberto;Bianchi;Varie;5292
+2012-03-02;60;Davide;Bianchi;Progettazione;5294
+2012-04-23;90;Davide;Bianchi;Progettazione;5294
+2012-04-24;60;Davide;Bianchi;Progettazione;5294
+2012-04-19;60;Davide;Bianchi;Progettazione;5300
+2012-05-22;60;Alberto;Bianchi;Service;5300
+2012-05-23;60;Alberto;Bianchi;Service;5300
+2012-05-28;60;Alberto;Bianchi;Service;5300
+2012-05-31;60;Alberto;Bianchi;Service;5300
+2012-06-05;120;Alberto;Bianchi;Service;5300
+2012-06-06;120;Alberto;Bianchi;Service;5300
+2012-06-25;480;Davide;Corti;Progettazione;5300
+2012-03-26;30;Alberto;Bianchi;Riunione interna;5312
+2012-03-16;300;Davide;Bianchi;Progettazione;5312
+2012-06-05;60;Alberto;Bianchi;Service;5312
+2012-09-14;150;Davide;Bianchi;As built;5312
+2012-09-03;120;Davide;Bianchi;As built;5312
+2012-05-31;60;Alberto;Bianchi;Service;5313_s
+2012-12-20;120;Alberto;Franchi;Varie;5319
+2012-07-10;60;Alberto;Franchi;Cantiere;5336
+2012-07-09;60;Alberto;Franchi;Cantiere;5336
+2012-07-13;60;Alberto;Franchi;Cantiere;5336
+2012-07-16;60;Alberto;Franchi;Varie;5336
+2012-07-24;600;Alberto;Franchi;Cantiere;5336
+2012-07-18;300;Alberto;Franchi;Progettazione;5336
+2012-07-23;180;Alberto;Franchi;Cantiere;5336
+2012-07-30;150;Alberto;Franchi;Progettazione;5336
+2012-07-31;120;Alberto;Franchi;Progettazione;5336
+2012-08-01;240;Alberto;Franchi;Progettazione;5336
+2012-08-07;240;Alberto;Franchi;Varie;5336
+2012-08-09;120;Alberto;Franchi;Progettazione;5336
+2012-09-12;240;Alberto;Franchi;Varie;5336
+2012-09-13;240;Alberto;Franchi;Varie;5336
+2012-09-17;60;Alberto;Franchi;Varie;5336
+2012-09-20;240;Alberto;Franchi;Progettazione;5336
+2012-09-25;360;Alberto;Franchi;Progettazione;5336
+2012-09-24;120;Alberto;Franchi;Varie;5336
+2012-09-28;240;Alberto;Franchi;Progettazione;5336
+2012-10-02;120;Alberto;Franchi;Progettazione;5336
+2012-10-02;120;Alberto;Franchi;Varie;5336
+2012-10-01;360;Alberto;Franchi;Progettazione;5336
+2012-10-04;120;Alberto;Franchi;Varie;5336
+2012-10-17;60;Alberto;Franchi;Progettazione;5336
+2012-11-08;60;Alberto;Franchi;Progettazione;5336
+2012-11-20;120;Alberto;Franchi;Progettazione;5336
+2012-11-19;120;Alberto;Franchi;Progettazione;5336
+2012-11-21;120;Alberto;Franchi;Progettazione;5336
+2012-11-15;180;Alberto;Franchi;Progettazione;5336
+2012-11-28;240;Alberto;Franchi;Progettazione;5336
+2012-12-07;120;Alberto;Franchi;Varie;5336
+2012-12-05;120;Alberto;Franchi;Progettazione;5336
+2012-05-08;60;Alberto;Bianchi;Riunione interna;5338
+2012-05-23;60;Alberto;Franchi;Collaudi cantiere;5338
+2012-12-03;120;Alberto;Franchi;Varie;5338
+2012-04-26;240;Davide;Corti;Progettazione;5344
+2012-05-02;480;Davide;Corti;Progettazione;5344
+2012-03-21;150;Federico;Zorro;Varie;5346
+2012-03-26;120;Federico;Zorro;Varie;5346
+2012-04-03;150;Federico;Zorro;Varie;5346
+2012-04-03;120;Alberto;Bianchi;Riunione interna;5346
+2012-04-03;120;Alberto;Franchi;Varie;5346
+2012-09-13;60;Alberto;Bianchi;Service;5346
+2012-05-29;360;Davide;Corti;Progettazione;5348
+2012-05-30;240;Davide;Corti;Progettazione;5348
+2012-10-29;60;Alberto;Bianchi;Riunione interna;5348
+2012-04-19;30;Alberto;Franchi;Progettazione;5353
+2012-04-27;30;Alberto;Franchi;Cantiere;5353
+2012-03-05;60;Federico;Zorro;Progettazione;5356
+2012-03-06;120;Federico;Zorro;Varie;5356
+2012-03-06;60;Federico;Zorro;Progettazione;5356
+2012-03-12;120;Federico;Zorro;Acquisti;5356
+2012-03-27;60;Federico;Zorro;Acquisti;5356
+2012-04-10;60;Federico;Zorro;Varie;5356
+2012-04-12;60;Federico;Zorro;Progettazione;5356
+2012-07-25;30;Alberto;Franchi;Varie;5370
+2012-10-29;60;Alberto;Franchi;Varie;5370
+2012-11-07;120;Alberto;Franchi;Varie;5370
+2012-11-06;60;Alberto;Franchi;Varie;5370
+2012-11-09;120;Alberto;Franchi;Progettazione;5370
+2012-11-22;480;Davide;Corti;Progettazione;5370
+2012-11-23;480;Davide;Corti;Progettazione;5370
+2012-11-29;480;Davide;Corti;Progettazione;5370
+2012-11-30;240;Davide;Corti;Progettazione;5370
+2012-12-18;120;Alberto;Franchi;Varie;5374
+2012-12-19;120;Alberto;Franchi;Varie;5374
+2012-04-23;60;Alberto;Franchi;Varie;5391
+2012-05-18;480;Davide;Corti;Progettazione;5391
+2012-05-21;180;Davide;Corti;Progettazione;5391
+2012-05-24;120;Davide;Corti;Progettazione;5391
+2012-05-29;120;Davide;Corti;Progettazione;5391
+2012-06-11;120;Alberto;Bianchi;Sviluppo Pannello Operatore;5391
+2012-06-21;30;Alberto;Bianchi;Sviluppo Ingegneria;5391
+2012-06-22;480;Alberto;Bianchi;Commissioning;5391
+2012-06-21;180;Alberto;Bianchi;Varie;5391
+2012-07-10;240;Davide;Corti;Progettazione;5391
+2012-07-11;240;Davide;Corti;Progettazione;5391
+2012-07-13;480;Davide;Corti;Progettazione;5391
+2012-07-16;480;Davide;Corti;Progettazione;5391
+2012-07-23;240;Davide;Corti;Progettazione;5391
+2012-07-31;240;Davide;Corti;Progettazione;5391
+2012-08-02;480;Alberto;Franchi;Collaudi cantiere;5391
+2012-08-08;120;Alberto;Franchi;Varie;5391
+2012-08-27;480;Davide;Corti;Progettazione;5391
+2012-09-28;60;Alberto;Franchi;Varie;5391
+2012-10-05;120;Davide;Corti;Progettazione;5391
+2012-10-05;180;Alberto;Bianchi;Sviluppo Ingegneria;5391
+2012-10-19;120;Alberto;Bianchi;Riunione interna;5391
+2012-11-13;120;Alberto;Franchi;Progettazione;5391
+2012-11-19;240;Alberto;Bianchi;Commissioning;5391
+2012-11-20;480;Alberto;Bianchi;Commissioning;5391
+2012-11-21;480;Alberto;Bianchi;Commissioning;5391
+2012-11-22;480;Alberto;Bianchi;Commissioning;5391
+2012-11-23;480;Alberto;Bianchi;Commissioning;5391
+2012-11-27;480;Alberto;Bianchi;Commissioning;5391
+2012-11-28;480;Alberto;Bianchi;Commissioning;5391
+2012-11-29;480;Alberto;Bianchi;Commissioning;5391
+2012-11-30;480;Alberto;Bianchi;Commissioning;5391
+2012-11-26;240;Alberto;Bianchi;Commissioning;5391
+2012-11-16;480;Alberto;Bianchi;Varie;5391
+2012-11-15;120;Alberto;Bianchi;Varie;5391
+2012-11-29;480;Alberto;Franchi;Varie;5391
+2012-12-03;30;Alberto;Bianchi;Commerciale;5391
+2012-12-03;30;Alberto;Bianchi;Riunione interna;5391
+2012-12-11;120;Alberto;Bianchi;Commissioning;5391
+2012-12-18;480;Alberto;Bianchi;Commissioning;5391
+2012-12-19;480;Alberto;Bianchi;Commissioning;5391
+2012-12-20;480;Alberto;Bianchi;Commissioning;5391
+2012-12-27;480;Alberto;Bianchi;Service;5391
+2012-12-28;90;Alberto;Bianchi;Service;5391
+2012-04-17;60;Davide;Bianchi;Progettazione;5398
+2012-05-25;240;Davide;Corti;Progettazione;5398
+2012-07-17;60;Alberto;Bianchi;Service;5404
+2012-03-12;420;Davide;Corti;Progettazione;5406
+2012-03-14;120;Davide;Corti;Progettazione;5406
+2012-03-20;120;Davide;Bianchi;Progettazione;5406
+2012-03-23;480;Davide;Bianchi;Progettazione;5406
+2012-03-26;360;Davide;Bianchi;Progettazione;5406
+2012-03-01;540;Federico;Zorro;Progettazione;5406
+2012-03-02;360;Federico;Zorro;Varie;5406
+2012-03-02;60;Federico;Zorro;Acquisti;5406
+2012-03-02;60;Federico;Zorro;Progettazione;5406
+2012-03-05;180;Federico;Zorro;Varie;5406
+2012-03-05;180;Federico;Zorro;Acquisti;5406
+2012-03-05;120;Federico;Zorro;Progettazione;5406
+2012-03-06;120;Federico;Zorro;Progettazione;5406
+2012-03-06;120;Federico;Zorro;Progettazione;5406
+2012-03-06;120;Federico;Zorro;Progettazione;5406
+2012-03-09;120;Federico;Zorro;Acquisti;5406
+2012-03-09;240;Federico;Zorro;Progettazione;5406
+2012-03-12;180;Federico;Zorro;Progettazione;5406
+2012-03-12;60;Federico;Zorro;Progettazione;5406
+2012-03-12;120;Federico;Zorro;Progettazione;5406
+2012-03-13;120;Federico;Zorro;Progettazione;5406
+2012-03-13;120;Federico;Zorro;Progettazione;5406
+2012-03-13;180;Federico;Zorro;Varie;5406
+2012-03-14;840;Federico;Zorro;Varie;5406
+2012-03-14;240;Federico;Zorro;Progettazione;5406
+2012-03-15;480;Federico;Zorro;Progettazione;5406
+2012-03-15;120;Federico;Zorro;Progettazione;5406
+2012-03-16;390;Federico;Zorro;Progettazione;5406
+2012-03-16;120;Federico;Zorro;Progettazione;5406
+2012-03-20;240;Federico;Zorro;Progettazione;5406
+2012-03-16;90;Federico;Zorro;Progettazione;5406
+2012-03-20;180;Federico;Zorro;Progettazione;5406
+2012-03-20;60;Federico;Zorro;Progettazione;5406
+2012-03-20;60;Federico;Zorro;Acquisti;5406
+2012-03-21;120;Federico;Zorro;Progettazione;5406
+2012-03-21;120;Federico;Zorro;Progettazione;5406
+2012-03-21;120;Federico;Zorro;Progettazione;5406
+2012-03-22;180;Federico;Zorro;Progettazione;5406
+2012-03-22;60;Federico;Zorro;Progettazione;5406
+2012-03-22;120;Federico;Zorro;Progettazione;5406
+2012-03-22;120;Federico;Zorro;Progettazione;5406
+2012-03-23;300;Federico;Zorro;Progettazione;5406
+2012-03-23;120;Federico;Zorro;Progettazione;5406
+2012-03-23;120;Federico;Zorro;Progettazione;5406
+2012-03-27;120;Alberto;Franchi;Progettazione;5406
+2012-03-28;480;Davide;Corti;Progettazione;5406
+2012-03-27;480;Davide;Corti;Progettazione;5406
+2012-03-26;240;Davide;Corti;Progettazione;5406
+2012-03-23;480;Davide;Corti;Progettazione;5406
+2012-03-05;480;Davide;Corti;Progettazione;5406
+2012-03-06;480;Davide;Corti;Progettazione;5406
+2012-03-08;480;Davide;Corti;Progettazione;5406
+2012-03-17;300;Federico;Zorro;Progettazione;5406
+2012-03-18;750;Federico;Zorro;Varie;5406
+2012-03-26;120;Federico;Zorro;Progettazione;5406
+2012-03-26;360;Federico;Zorro;Progettazione;5406
+2012-03-27;240;Federico;Zorro;Progettazione;5406
+2012-03-27;120;Federico;Zorro;Progettazione;5406
+2012-03-27;120;Federico;Zorro;Varie;5406
+2012-03-28;180;Federico;Zorro;Progettazione;5406
+2012-03-28;180;Federico;Zorro;Progettazione;5406
+2012-03-28;30;Federico;Zorro;Progettazione;5406
+2012-03-30;480;Davide;Corti;Progettazione;5406
+2012-03-01;240;Davide;Bianchi;Progettazione;5406
+2012-03-29;60;Federico;Zorro;Varie;5406
+2012-03-06;300;Davide;Bianchi;Progettazione;5406
+2012-03-07;60;Davide;Bianchi;Progettazione;5406
+2012-03-09;120;Davide;Bianchi;Progettazione;5406
+2012-03-29;180;Federico;Zorro;Progettazione;5406
+2012-03-29;60;Federico;Zorro;Acquisti;5406
+2012-03-29;180;Federico;Zorro;Progettazione;5406
+2012-03-30;120;Federico;Zorro;Acquisti;5406
+2012-03-30;120;Federico;Zorro;Progettazione;5406
+2012-03-12;240;Davide;Bianchi;Progettazione;5406
+2012-03-30;120;Federico;Zorro;Varie;5406
+2012-03-30;60;Federico;Zorro;Progettazione;5406
+2012-04-02;240;Federico;Zorro;Progettazione;5406
+2012-04-02;120;Federico;Zorro;Acquisti;5406
+2012-04-03;60;Federico;Zorro;Varie;5406
+2012-04-03;270;Federico;Zorro;Progettazione;5406
+2012-04-03;60;Alberto;Franchi;Progettazione;5406
+2012-04-04;120;Alberto;Franchi;Progettazione;5406
+2012-04-04;480;Federico;Zorro;Progettazione;5406
+2012-04-05;120;Federico;Zorro;Varie;5406
+2012-04-05;120;Federico;Zorro;Progettazione;5406
+2012-04-05;120;Federico;Zorro;Acquisti;5406
+2012-04-06;120;Federico;Zorro;Acquisti;5406
+2012-04-06;90;Federico;Zorro;Progettazione;5406
+2012-04-10;60;Federico;Zorro;Progettazione;5406
+2012-04-10;120;Federico;Zorro;Acquisti;5406
+2012-04-10;150;Federico;Zorro;Acquisti;5406
+2012-04-10;30;Federico;Zorro;Progettazione;5406
+2012-04-10;120;Alberto;Franchi;Progettazione;5406
+2012-04-11;60;Alberto;Franchi;Progettazione;5406
+2012-04-11;60;Federico;Zorro;Varie;5406
+2012-04-11;120;Federico;Zorro;Progettazione;5406
+2012-04-12;90;Federico;Zorro;Progettazione;5406
+2012-04-12;30;Federico;Zorro;Acquisti;5406
+2012-04-12;60;Alberto;Franchi;Progettazione;5406
+2012-04-12;300;Federico;Zorro;Progettazione;5406
+2012-04-13;150;Federico;Zorro;Progettazione;5406
+2012-04-13;90;Federico;Zorro;Varie;5406
+2012-04-13;60;Federico;Zorro;Progettazione;5406
+2012-04-13;150;Federico;Zorro;Progettazione;5406
+2012-04-16;150;Federico;Zorro;Progettazione;5406
+2012-04-16;120;Federico;Zorro;Acquisti;5406
+2012-04-16;150;Federico;Zorro;Progettazione;5406
+2012-04-16;30;Federico;Zorro;Varie;5406
+2012-04-16;60;Federico;Zorro;Progettazione;5406
+2012-04-16;60;Alberto;Franchi;Progettazione;5406
+2012-04-17;180;Federico;Zorro;Progettazione;5406
+2012-04-17;120;Federico;Zorro;Varie;5406
+2012-04-17;90;Federico;Zorro;Varie;5406
+2012-04-17;90;Federico;Zorro;Acquisti;5406
+2012-04-05;480;Davide;Corti;Progettazione;5406
+2012-04-26;120;Federico;Zorro;Varie;5406
+2012-04-26;120;Federico;Zorro;Progettazione;5406
+2012-04-26;150;Federico;Zorro;Progettazione;5406
+2012-04-18;180;Federico;Zorro;Acquisti;5406
+2012-04-18;240;Federico;Zorro;Progettazione;5406
+2012-04-18;120;Federico;Zorro;Varie;5406
+2012-04-19;240;Federico;Zorro;Progettazione;5406
+2012-04-19;60;Federico;Zorro;Progettazione;5406
+2012-04-19;180;Federico;Zorro;Varie;5406
+2012-04-20;270;Federico;Zorro;Progettazione;5406
+2012-04-27;150;Federico;Zorro;Acquisti;5406
+2012-04-27;120;Federico;Zorro;Progettazione;5406
+2012-04-27;180;Federico;Zorro;Progettazione;5406
+2012-04-27;30;Federico;Zorro;Varie;5406
+2012-05-02;150;Federico;Zorro;Varie;5406
+2012-05-02;180;Federico;Zorro;Acquisti;5406
+2012-05-02;180;Federico;Zorro;Progettazione;5406
+2012-05-03;120;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-05-03;240;Federico;Zorro;Varie;5406
+2012-05-03;180;Federico;Zorro;Progettazione;5406
+2012-05-04;180;Federico;Zorro;Varie;5406
+2012-05-04;240;Federico;Zorro;Progettazione;5406
+2012-05-07;150;Federico;Zorro;Acquisti;5406
+2012-05-07;150;Federico;Zorro;Progettazione;5406
+2012-05-04;120;Alberto;Franchi;Progettazione;5406
+2012-05-07;420;Davide;Bianchi;Progettazione;5406
+2012-05-09;270;Federico;Zorro;Progettazione;5406
+2012-05-08;90;Federico;Zorro;Acquisti;5406
+2012-05-08;120;Federico;Zorro;Progettazione;5406
+2012-05-09;90;Federico;Zorro;Varie;5406
+2012-05-10;60;Federico;Zorro;Acquisti;5406
+2012-05-10;330;Federico;Zorro;Progettazione;5406
+2012-05-10;90;Federico;Zorro;Varie;5406
+2012-05-11;180;Federico;Zorro;Acquisti;5406
+2012-05-11;210;Federico;Zorro;Progettazione;5406
+2012-05-14;210;Federico;Zorro;Acquisti;5406
+2012-05-14;180;Federico;Zorro;Acquisti;5406
+2012-05-14;30;Federico;Zorro;Acquisti;5406
+2012-05-14;30;Federico;Zorro;Varie;5406
+2012-05-15;150;Federico;Zorro;Varie;5406
+2012-05-15;300;Federico;Zorro;Progettazione;5406
+2012-05-16;210;Federico;Zorro;Acquisti;5406
+2012-05-16;120;Federico;Zorro;Progettazione;5406
+2012-05-17;90;Federico;Zorro;Varie;5406
+2012-05-16;90;Alberto;Franchi;Varie;5406
+2012-05-17;60;Alberto;Franchi;Varie;5406
+2012-05-17;150;Federico;Zorro;Varie;5406
+2012-05-17;90;Federico;Zorro;Progettazione;5406
+2012-05-17;30;Federico;Zorro;Acquisti;5406
+2012-05-18;90;Federico;Zorro;Progettazione;5406
+2012-05-18;60;Federico;Zorro;Varie;5406
+2012-05-18;330;Federico;Zorro;Varie;5406
+2012-05-07;480;Davide;Corti;Progettazione;5406
+2012-05-08;480;Davide;Corti;Progettazione;5406
+2012-05-09;240;Davide;Corti;Progettazione;5406
+2012-05-21;60;Davide;Bianchi;Progettazione;5406
+2012-05-22;120;Davide;Bianchi;Progettazione;5406
+2012-05-21;240;Federico;Zorro;Varie;5406
+2012-05-21;180;Federico;Zorro;Acquisti;5406
+2012-05-22;390;Federico;Zorro;Progettazione;5406
+2012-05-23;120;Federico;Zorro;Acquisti;5406
+2012-05-23;120;Federico;Zorro;Progettazione;5406
+2012-05-23;60;Federico;Zorro;Varie;5406
+2012-05-24;360;Federico;Zorro;Progettazione;5406
+2012-05-25;270;Federico;Zorro;Acquisti;5406
+2012-05-25;180;Federico;Zorro;Progettazione;5406
+2012-05-28;240;Federico;Zorro;Varie;5406
+2012-05-28;300;Federico;Zorro;Progettazione;5406
+2012-05-29;510;Federico;Zorro;Progettazione;5406
+2012-05-28;60;Alberto;Franchi;Varie;5406
+2012-05-30;60;Davide;Bianchi;Progettazione;5406
+2012-05-30;90;Federico;Zorro;Varie;5406
+2012-05-30;360;Federico;Zorro;Progettazione;5406
+2012-05-31;120;Federico;Zorro;Acquisti;5406
+2012-05-31;360;Federico;Zorro;Progettazione;5406
+2012-06-01;300;Federico;Zorro;Varie;5406
+2012-06-01;90;Federico;Zorro;Progettazione;5406
+2012-06-01;60;Alberto;Franchi;Varie;5406
+2012-06-04;180;Federico;Zorro;Varie;5406
+2012-06-05;90;Federico;Zorro;Progettazione;5406
+2012-06-05;210;Federico;Zorro;Varie;5406
+2012-06-05;30;Federico;Zorro;Acquisti;5406
+2012-06-06;60;Alberto;Bianchi;Varie;5406
+2012-06-08;210;Federico;Zorro;Acquisti;5406
+2012-06-08;180;Federico;Zorro;Progettazione;5406
+2012-06-08;120;Federico;Zorro;Varie;5406
+2012-06-06;240;Federico;Zorro;Varie;5406
+2012-06-07;210;Federico;Zorro;Progettazione;5406
+2012-06-07;60;Federico;Zorro;Varie;5406
+2012-06-07;240;Federico;Zorro;Acquisti;5406
+2012-06-11;90;Federico;Zorro;Progettazione;5406
+2012-06-11;240;Federico;Zorro;Varie;5406
+2012-06-11;60;Alberto;Bianchi;Varie;5406
+2012-06-08;60;Alberto;Franchi;Varie;5406
+2012-06-14;360;Alberto;Franchi;Collaudi officina;5406
+2012-06-18;30;Alberto;Bianchi;Varie;5406
+2012-06-19;240;Alberto;Franchi;Progettazione;5406
+2012-06-18;120;Alberto;Franchi;Progettazione;5406
+2012-06-12;480;Federico;Zorro;Progettazione;5406
+2012-06-13;480;Federico;Zorro;Collaudi officina;5406
+2012-06-14;480;Federico;Zorro;Collaudi officina;5406
+2012-06-15;480;Federico;Zorro;Collaudi officina;5406
+2012-06-16;240;Federico;Zorro;Collaudi officina;5406
+2012-06-16;180;Federico;Zorro;Varie;5406
+2012-06-11;150;Federico;Zorro;Varie;5406
+2012-06-19;60;Federico;Zorro;Commerciale;5406
+2012-06-19;120;Federico;Zorro;Progettazione;5406
+2012-06-19;300;Federico;Zorro;Varie;5406
+2012-06-20;210;Federico;Zorro;Varie;5406
+2012-06-20;120;Federico;Zorro;Acquisti;5406
+2012-06-20;150;Federico;Zorro;Progettazione;5406
+2012-06-21;210;Federico;Zorro;Varie;5406
+2012-06-21;90;Federico;Zorro;Acquisti;5406
+2012-06-21;180;Federico;Zorro;Progettazione;5406
+2012-06-22;240;Federico;Zorro;Progettazione;5406
+2012-06-22;180;Federico;Zorro;Varie;5406
+2012-06-24;1080;Federico;Zorro;Varie;5406
+2012-06-25;480;Federico;Zorro;Collaudi officina;5406
+2012-06-26;480;Federico;Zorro;Collaudi officina;5406
+2012-06-27;480;Federico;Zorro;Collaudi officina;5406
+2012-06-28;480;Federico;Zorro;Collaudi officina;5406
+2012-06-29;480;Federico;Zorro;Collaudi officina;5406
+2012-06-30;240;Federico;Zorro;Collaudi officina;5406
+2012-06-27;120;Alberto;Bianchi;Varie;5406
+2012-06-29;60;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-06-29;60;Alberto;Franchi;Progettazione;5406
+2012-07-01;780;Federico;Zorro;Varie;5406
+2012-07-02;480;Federico;Zorro;Varie;5406
+2012-07-03;480;Federico;Zorro;Varie;5406
+2012-07-04;420;Federico;Zorro;Varie;5406
+2012-07-04;60;Federico;Zorro;Acquisti;5406
+2012-07-05;240;Federico;Zorro;Varie;5406
+2012-07-09;240;Federico;Zorro;Varie;5406
+2012-07-10;210;Federico;Zorro;Acquisti;5406
+2012-07-10;210;Federico;Zorro;Progettazione;5406
+2012-07-10;240;Alberto;Franchi;Progettazione;5406
+2012-07-11;120;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-07-11;120;Federico;Zorro;Varie;5406
+2012-07-11;240;Federico;Zorro;Progettazione;5406
+2012-07-12;90;Federico;Zorro;Progettazione;5406
+2012-07-12;90;Federico;Zorro;Varie;5406
+2012-07-13;60;Alberto;Franchi;Progettazione;5406
+2012-07-17;60;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-07-16;120;Alberto;Franchi;Progettazione;5406
+2012-07-18;240;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-07-20;120;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-07-13;150;Federico;Zorro;Acquisti;5406
+2012-07-16;480;Federico;Zorro;Collaudi officina;5406
+2012-07-17;480;Federico;Zorro;Progettazione;5406
+2012-07-18;480;Federico;Zorro;Varie;5406
+2012-07-19;480;Federico;Zorro;Commerciale;5406
+2012-07-20;600;Federico;Zorro;Varie;5406
+2012-07-23;120;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-07-23;120;Federico;Zorro;Varie;5406
+2012-07-23;90;Federico;Zorro;Progettazione;5406
+2012-07-23;240;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-07-24;30;Federico;Zorro;Varie;5406
+2012-07-24;150;Federico;Zorro;Progettazione;5406
+2012-07-24;120;Alberto;Bianchi;Riunione con fornitori;5406
+2012-07-24;240;Alberto;Bianchi;Riunione con fornitori;5406
+2012-07-25;120;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-07-25;60;Alberto;Franchi;Progettazione;5406
+2012-07-25;120;Federico;Zorro;Progettazione;5406
+2012-07-25;30;Federico;Zorro;Varie;5406
+2012-07-26;180;Federico;Zorro;Progettazione;5406
+2012-07-27;240;Federico;Zorro;Progettazione;5406
+2012-07-27;150;Federico;Zorro;Varie;5406
+2012-07-30;180;Federico;Zorro;Progettazione;5406
+2012-07-30;60;Federico;Zorro;Acquisti;5406
+2012-07-31;120;Federico;Zorro;Progettazione;5406
+2012-08-01;120;Alberto;Franchi;Progettazione;5406
+2012-08-01;300;Federico;Zorro;Varie;5406
+2012-08-01;60;Federico;Zorro;Progettazione;5406
+2012-08-02;300;Federico;Zorro;Progettazione;5406
+2012-08-02;90;Federico;Zorro;Varie;5406
+2012-08-03;120;Alberto;Franchi;Varie;5406
+2012-08-03;120;Federico;Zorro;Varie;5406
+2012-08-03;180;Federico;Zorro;Progettazione;5406
+2012-08-06;210;Federico;Zorro;Progettazione;5406
+2012-08-06;60;Federico;Zorro;Varie;5406
+2012-08-07;60;Federico;Zorro;Varie;5406
+2012-08-07;300;Federico;Zorro;Progettazione;5406
+2012-08-06;240;Alberto;Franchi;Progettazione;5406
+2012-08-21;120;Alberto;Bianchi;Riunione con fornitori;5406
+2012-08-21;60;Alberto;Bianchi;Riunione interna;5406
+2012-08-08;360;Federico;Zorro;Progettazione;5406
+2012-08-22;360;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-08-23;180;Alberto;Bianchi;Riunione interna;5406
+2012-08-23;270;Federico;Zorro;Varie;5406
+2012-08-23;60;Federico;Zorro;Progettazione;5406
+2012-08-24;240;Federico;Zorro;Progettazione;5406
+2012-08-24;240;Federico;Zorro;Varie;5406
+2012-08-23;180;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-08-24;360;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-08-27;300;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-08-27;90;Federico;Zorro;Progettazione;5406
+2012-08-28;60;Federico;Zorro;Varie;5406
+2012-08-29;150;Federico;Zorro;Varie;5406
+2012-08-28;180;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-08-30;420;Federico;Zorro;Varie;5406
+2012-08-27;180;Alberto;Franchi;Progettazione;5406
+2012-08-31;90;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-08-31;240;Federico;Zorro;Progettazione;5406
+2012-08-31;60;Federico;Zorro;Varie;5406
+2012-09-03;240;Davide;Corti;Progettazione;5406
+2012-09-04;240;Davide;Corti;Progettazione;5406
+2012-09-04;540;Federico;Zorro;Progettazione;5406
+2012-09-03;180;Federico;Zorro;Progettazione;5406
+2012-09-03;240;Federico;Zorro;Varie;5406
+2012-09-05;420;Federico;Zorro;Progettazione;5406
+2012-09-05;120;Federico;Zorro;Varie;5406
+2012-09-06;360;Federico;Zorro;Progettazione;5406
+2012-09-06;60;Federico;Zorro;Varie;5406
+2012-09-10;240;Federico;Zorro;Progettazione;5406
+2012-09-06;120;Alberto;Bianchi;Riunione con fornitori;5406
+2012-09-11;240;Federico;Zorro;Progettazione;5406
+2012-09-11;60;Federico;Zorro;Varie;5406
+2012-09-12;270;Federico;Zorro;Progettazione;5406
+2012-09-12;120;Federico;Zorro;Varie;5406
+2012-09-13;300;Federico;Zorro;Progettazione;5406
+2012-09-13;60;Federico;Zorro;Varie;5406
+2012-09-14;60;Federico;Zorro;Acquisti;5406
+2012-09-14;60;Federico;Zorro;Varie;5406
+2012-09-14;360;Federico;Zorro;Progettazione;5406
+2012-09-17;60;Federico;Zorro;Varie;5406
+2012-09-17;420;Federico;Zorro;Progettazione;5406
+2012-09-10;60;Alberto;Franchi;Varie;5406
+2012-09-14;120;Alberto;Franchi;Progettazione;5406
+2012-09-17;60;Alberto;Franchi;Progettazione;5406
+2012-09-18;360;Federico;Zorro;Progettazione;5406
+2012-09-19;240;Federico;Zorro;Progettazione;5406
+2012-09-21;180;Federico;Zorro;Varie;5406
+2012-09-21;150;Federico;Zorro;Progettazione;5406
+2012-09-23;240;Federico;Zorro;Varie;5406
+2012-09-24;480;Federico;Zorro;Progettazione;5406
+2012-09-25;480;Federico;Zorro;Progettazione;5406
+2012-09-26;480;Federico;Zorro;Progettazione;5406
+2012-09-27;480;Federico;Zorro;Progettazione;5406
+2012-09-28;480;Federico;Zorro;Progettazione;5406
+2012-09-29;360;Federico;Zorro;Varie;5406
+2012-09-21;120;Alberto;Franchi;Progettazione;5406
+2012-10-02;90;Davide;Bianchi;Progettazione;5406
+2012-10-01;180;Federico;Zorro;Varie;5406
+2012-10-01;180;Federico;Zorro;Progettazione;5406
+2012-10-01;60;Federico;Zorro;Acquisti;5406
+2012-10-02;240;Federico;Zorro;Acquisti;5406
+2012-10-02;120;Federico;Zorro;Progettazione;5406
+2012-10-03;360;Federico;Zorro;Varie;5406
+2012-10-03;150;Federico;Zorro;Progettazione;5406
+2012-10-04;240;Federico;Zorro;Progettazione;5406
+2012-10-04;60;Federico;Zorro;Varie;5406
+2012-10-04;60;Federico;Zorro;Acquisti;5406
+2012-10-03;60;Alberto;Franchi;Progettazione;5406
+2012-10-05;420;Federico;Zorro;Progettazione;5406
+2012-10-08;180;Federico;Zorro;Progettazione;5406
+2012-10-08;60;Federico;Zorro;Varie;5406
+2012-10-10;120;Federico;Zorro;Varie;5406
+2012-10-10;30;Federico;Zorro;Progettazione;5406
+2012-10-10;120;Alberto;Bianchi;Riunione interna;5406
+2012-10-10;120;Alberto;Franchi;Varie;5406
+2012-10-11;420;Alberto;Bianchi;Varie;5406
+2012-10-11;120;Federico;Zorro;Varie;5406
+2012-10-11;180;Federico;Zorro;Progettazione;5406
+2012-10-12;480;Federico;Zorro;Varie;5406
+2012-10-12;420;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-10-15;240;Alberto;Bianchi;Riunione con cliente;5406
+2012-10-16;240;Alberto;Bianchi;Riunione con cliente;5406
+2012-10-16;120;Alberto;Franchi;Varie;5406
+2012-10-17;480;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-10-17;120;Alberto;Franchi;Progettazione;5406
+2012-10-18;60;Alberto;Franchi;Varie;5406
+2012-10-18;240;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-10-18;60;Alberto;Bianchi;Riunione con cliente;5406
+2012-10-18;120;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-10-19;120;Alberto;Franchi;Varie;5406
+2012-10-15;600;Federico;Zorro;Varie;5406
+2012-10-16;300;Federico;Zorro;Varie;5406
+2012-10-16;240;Federico;Zorro;Progettazione;5406
+2012-10-17;480;Federico;Zorro;Progettazione;5406
+2012-10-17;120;Federico;Zorro;Varie;5406
+2012-10-18;480;Federico;Zorro;Progettazione;5406
+2012-10-18;60;Federico;Zorro;Varie;5406
+2012-10-19;480;Federico;Zorro;Progettazione;5406
+2012-10-22;180;Federico;Zorro;Varie;5406
+2012-10-22;120;Federico;Zorro;Progettazione;5406
+2012-10-23;180;Federico;Zorro;Varie;5406
+2012-10-23;300;Federico;Zorro;Progettazione;5406
+2012-10-24;120;Alberto;Franchi;Varie;5406
+2012-10-24;240;Federico;Zorro;Progettazione;5406
+2012-10-25;480;Federico;Zorro;Varie;5406
+2012-10-26;240;Federico;Zorro;Progettazione;5406
+2012-10-29;180;Alberto;Bianchi;Commerciale;5406
+2012-10-29;120;Alberto;Franchi;Varie;5406
+2012-10-26;60;Alberto;Franchi;Varie;5406
+2012-10-30;180;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-10-29;210;Federico;Zorro;Varie;5406
+2012-10-29;180;Federico;Zorro;Progettazione;5406
+2012-10-29;120;Federico;Zorro;Varie;5406
+2012-10-30;60;Federico;Zorro;Varie;5406
+2012-10-30;180;Federico;Zorro;Progettazione;5406
+2012-10-31;180;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-10-29;480;Davide;Corti;Progettazione;5406
+2012-10-26;480;Davide;Corti;Progettazione;5406
+2012-10-25;240;Davide;Corti;Progettazione;5406
+2012-10-31;60;Federico;Zorro;Varie;5406
+2012-10-31;240;Federico;Zorro;Progettazione;5406
+2012-11-05;90;Alberto;Bianchi;Riunione con fornitori;5406
+2012-11-05;120;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-11-05;300;Federico;Zorro;Progettazione;5406
+2012-11-06;120;Federico;Zorro;Progettazione;5406
+2012-11-07;60;Federico;Zorro;Progettazione;5406
+2012-11-06;120;Alberto;Franchi;Progettazione;5406
+2012-11-05;60;Alberto;Franchi;Progettazione;5406
+2012-11-08;60;Alberto;Bianchi;Riunione interna;5406
+2012-11-08;60;Federico;Zorro;Varie;5406
+2012-11-08;180;Federico;Zorro;Progettazione;5406
+2012-11-09;360;Federico;Zorro;Progettazione;5406
+2012-11-12;270;Federico;Zorro;Progettazione;5406
+2012-11-12;210;Federico;Zorro;Varie;5406
+2012-11-13;240;Federico;Zorro;Varie;5406
+2012-11-13;120;Federico;Zorro;Progettazione;5406
+2012-11-14;420;Federico;Zorro;Progettazione;5406
+2012-11-15;510;Federico;Zorro;Progettazione;5406
+2012-11-21;240;Federico;Zorro;Progettazione;5406
+2012-11-21;180;Federico;Zorro;Varie;5406
+2012-11-20;90;Federico;Zorro;Varie;5406
+2012-11-20;420;Federico;Zorro;Progettazione;5406
+2012-11-19;90;Federico;Zorro;Varie;5406
+2012-11-19;420;Federico;Zorro;Progettazione;5406
+2012-11-16;120;Alberto;Franchi;Progettazione;5406
+2012-11-15;120;Alberto;Franchi;Progettazione;5406
+2012-11-05;480;Davide;Corti;Progettazione;5406
+2012-11-06;480;Davide;Corti;Progettazione;5406
+2012-11-07;480;Davide;Corti;Progettazione;5406
+2012-11-08;480;Davide;Corti;Progettazione;5406
+2012-11-09;480;Davide;Corti;Progettazione;5406
+2012-11-12;480;Davide;Corti;Progettazione;5406
+2012-11-13;480;Davide;Corti;Progettazione;5406
+2012-11-14;480;Davide;Corti;Progettazione;5406
+2012-11-15;480;Davide;Corti;Progettazione;5406
+2012-11-16;480;Davide;Corti;Progettazione;5406
+2012-11-19;480;Davide;Corti;Progettazione;5406
+2012-11-20;480;Davide;Corti;Progettazione;5406
+2012-11-21;480;Davide;Corti;Progettazione;5406
+2012-11-27;240;Alberto;Franchi;Varie;5406
+2012-11-22;240;Federico;Zorro;Progettazione;5406
+2012-11-22;120;Federico;Zorro;Varie;5406
+2012-11-23;240;Federico;Zorro;Acquisti;5406
+2012-11-16;360;Federico;Zorro;Progettazione;5406
+2012-12-03;420;Federico;Zorro;Varie;5406
+2012-12-04;360;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-12-04;240;Federico;Zorro;Varie;5406
+2012-12-05;180;Federico;Zorro;Acquisti;5406
+2012-12-05;60;Federico;Zorro;Varie;5406
+2012-12-05;60;Federico;Zorro;Progettazione;5406
+2012-12-06;330;Federico;Zorro;Progettazione;5406
+2012-12-07;180;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-12-10;90;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-12-03;120;Alberto;Franchi;Progettazione;5406
+2012-12-10;90;Federico;Zorro;Acquisti;5406
+2012-12-10;180;Federico;Zorro;Progettazione;5406
+2012-12-11;180;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-12-10;180;Federico;Zorro;Varie;5406
+2012-12-11;240;Federico;Zorro;Varie;5406
+2012-12-11;270;Federico;Zorro;Progettazione;5406
+2012-12-12;480;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-12-13;90;Alberto;Bianchi;Varie;5406
+2012-12-13;480;Davide;Corti;Progettazione;5406
+2012-12-14;480;Davide;Corti;Progettazione;5406
+2012-12-14;120;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-12-12;600;Federico;Zorro;Acquisti;5406
+2012-12-13;210;Federico;Zorro;Varie;5406
+2012-12-13;60;Federico;Zorro;Progettazione;5406
+2012-12-14;120;Federico;Zorro;Varie;5406
+2012-12-14;240;Federico;Zorro;Progettazione;5406
+2012-12-14;120;Federico;Zorro;Varie;5406
+2012-12-17;150;Federico;Zorro;Acquisti;5406
+2012-12-17;300;Federico;Zorro;Progettazione;5406
+2012-12-17;60;Federico;Zorro;Varie;5406
+2012-12-18;360;Federico;Zorro;Acquisti;5406
+2012-12-18;60;Federico;Zorro;Varie;5406
+2012-12-19;300;Federico;Zorro;Varie;5406
+2012-12-17;120;Alberto;Franchi;Acquisti;5406
+2012-12-18;60;Alberto;Franchi;Varie;5406
+2012-12-19;60;Alberto;Franchi;Progettazione;5406
+2012-12-19;120;Federico;Zorro;Progettazione;5406
+2012-12-20;60;Federico;Zorro;Commerciale;5406
+2012-12-20;240;Federico;Zorro;Varie;5406
+2012-12-17;120;Alberto;Bianchi;Sviluppo Ingegneria;5406
+2012-12-20;90;Federico;Zorro;Acquisti;5406
+2012-12-21;270;Federico;Zorro;Acquisti;5406
+2012-12-21;120;Federico;Zorro;Varie;5406
+2012-12-21;30;Federico;Zorro;Progettazione;5406
+2012-12-27;120;Federico;Zorro;Progettazione;5406
+2012-12-27;240;Federico;Zorro;Varie;5406
+2012-12-27;120;Federico;Zorro;Progettazione;5406
+2012-12-28;150;Federico;Zorro;Progettazione;5406
+2012-12-28;270;Federico;Zorro;Varie;5406
+2012-03-13;240;Alberto;Bianchi;Riunione con cliente;5410
+2012-07-11;240;Alberto;Bianchi;Acquisti;5411
+2012-07-18;240;Alberto;Bianchi;Sviluppo Ingegneria;5411
+2012-06-20;60;Alberto;Bianchi;Service;5412
+2012-05-17;30;Alberto;Franchi;Varie;5414
+2012-10-10;120;Alberto;Franchi;Varie;5414
+2012-10-16;120;Alberto;Franchi;Progettazione;5414
+2012-03-08;60;Alberto;Franchi;Progettazione;5419
+2012-03-02;60;Alberto;Franchi;Progettazione;5419
+2012-03-13;60;Davide;Serio;Commesse;5419
+2012-03-14;60;Davide;Serio;Commesse;5419
+2012-03-15;60;Davide;Serio;Commesse;5419
+2012-03-27;30;Davide;Serio;Commesse;5419
+2012-04-10;15;Davide;Serio;Commesse;5419
+2012-08-08;120;Alberto;Franchi;Varie;5419
+2012-08-10;120;Alberto;Franchi;Varie;5419
+2012-08-31;60;Alberto;Franchi;Varie;5419
+2012-05-07;60;Alberto;Bianchi;Riunione interna;5421
+2012-06-18;60;Alberto;Franchi;Varie;5421
+2012-06-20;60;Alberto;Bianchi;Service;5421
+2012-06-21;60;Alberto;Bianchi;Service;5421
+2012-11-07;210;Alberto;Bianchi;Acquisti;5421
+2012-11-08;30;Alberto;Bianchi;Acquisti;5421
+2012-11-12;30;Alberto;Bianchi;Varie;5421
+2012-03-08;60;Alberto;Franchi;Progettazione;5422
+2012-03-07;120;Alberto;Franchi;Progettazione;5422
+2012-03-13;480;Davide;Corti;Progettazione;5422
+2012-03-14;360;Davide;Corti;Progettazione;5422
+2012-03-14;120;Alberto;Franchi;Progettazione;5422
+2012-03-15;120;Alberto;Franchi;Progettazione;5422
+2012-03-16;120;Alberto;Franchi;Progettazione;5422
+2012-03-23;120;Alberto;Franchi;Progettazione;5422
+2012-03-15;480;Davide;Corti;Progettazione;5422
+2012-03-16;480;Davide;Corti;Progettazione;5422
+2012-03-19;480;Davide;Corti;Progettazione;5422
+2012-03-20;480;Davide;Corti;Progettazione;5422
+2012-03-21;480;Davide;Corti;Progettazione;5422
+2012-03-22;480;Davide;Corti;Progettazione;5422
+2012-03-01;480;Davide;Corti;Progettazione;5422
+2012-03-07;480;Davide;Corti;Progettazione;5422
+2012-03-30;60;Alberto;Franchi;Varie;5422
+2012-04-10;60;Federico;Zorro;Progettazione;5422
+2012-04-06;360;Davide;Corti;Progettazione;5422
+2012-04-16;480;Davide;Corti;Progettazione;5422
+2012-04-20;60;Alberto;Franchi;Progettazione;5422
+2012-04-23;120;Alberto;Franchi;Varie;5422
+2012-04-20;480;Davide;Corti;Progettazione;5422
+2012-08-03;60;Alberto;Franchi;Varie;5422
+2012-08-09;480;Davide;Corti;Progettazione;5422
+2012-08-10;480;Davide;Corti;Progettazione;5422
+2012-09-18;480;Davide;Corti;Progettazione;5422
+2012-09-19;240;Davide;Corti;Progettazione;5422
+2012-10-09;60;Alberto;Franchi;Progettazione;5422
+2012-10-16;60;Alberto;Franchi;Progettazione;5422
+2012-10-17;60;Alberto;Franchi;Progettazione;5422
+2012-10-19;60;Alberto;Franchi;Progettazione;5422
+2012-10-08;480;Davide;Corti;Progettazione;5422
+2012-10-09;480;Davide;Corti;Progettazione;5422
+2012-10-10;480;Davide;Corti;Progettazione;5422
+2012-10-11;480;Davide;Corti;Progettazione;5422
+2012-10-12;240;Davide;Corti;Progettazione;5422
+2012-10-15;480;Davide;Corti;Progettazione;5422
+2012-10-16;480;Davide;Corti;Progettazione;5422
+2012-10-17;480;Davide;Corti;Progettazione;5422
+2012-10-18;480;Davide;Corti;Progettazione;5422
+2012-10-19;480;Davide;Corti;Progettazione;5422
+2012-10-30;480;Davide;Corti;Progettazione;5422
+2012-10-31;240;Davide;Corti;Progettazione;5422
+2012-03-20;300;Davide;Bianchi;Progettazione;5423
+2012-03-19;180;Davide;Bianchi;Progettazione;5423
+2012-03-21;270;Davide;Bianchi;Progettazione;5423
+2012-03-21;60;Alberto;Franchi;Progettazione;5423
+2012-03-22;60;Alberto;Franchi;Varie;5423
+2012-03-22;270;Davide;Bianchi;Progettazione;5423
+2012-03-22;90;Alberto;Franchi;Progettazione;5423
+2012-03-23;60;Davide;Bianchi;Progettazione;5423
+2012-03-26;90;Davide;Bianchi;Progettazione;5423
+2012-03-27;120;Alberto;Franchi;Varie;5423
+2012-03-27;300;Davide;Bianchi;Progettazione;5423
+2012-03-28;210;Davide;Bianchi;Commerciale;5423
+2012-03-28;120;Davide;Bianchi;Progettazione;5423
+2012-03-29;510;Davide;Bianchi;Progettazione;5423
+2012-03-28;120;Alberto;Franchi;Varie;5423
+2012-03-01;120;Davide;Bianchi;Progettazione;5423
+2012-03-02;120;Davide;Bianchi;Progettazione;5423
+2012-03-06;60;Davide;Bianchi;Progettazione;5423
+2012-03-07;360;Davide;Bianchi;Progettazione;5423
+2012-03-08;180;Davide;Bianchi;Progettazione;5423
+2012-03-12;120;Davide;Bianchi;Progettazione;5423
+2012-03-13;60;Davide;Bianchi;Progettazione;5423
+2012-03-14;180;Davide;Bianchi;Progettazione;5423
+2012-03-15;300;Davide;Bianchi;Progettazione;5423
+2012-03-16;120;Davide;Bianchi;Progettazione;5423
+2012-03-30;390;Davide;Bianchi;Progettazione;5423
+2012-04-02;60;Davide;Bianchi;Progettazione;5423
+2012-04-02;120;Davide;Bianchi;Progettazione;5423
+2012-04-02;270;Davide;Bianchi;Progettazione;5423
+2012-04-03;330;Davide;Bianchi;Progettazione;5423
+2012-04-03;60;Alberto;Bianchi;Riunione interna;5423
+2012-04-04;180;Davide;Bianchi;Progettazione;5423
+2012-04-05;180;Davide;Bianchi;Progettazione;5423
+2012-04-06;180;Davide;Bianchi;Progettazione;5423
+2012-04-10;90;Davide;Bianchi;Progettazione;5423
+2012-04-11;270;Davide;Bianchi;Progettazione;5423
+2012-04-12;240;Davide;Bianchi;Progettazione;5423
+2012-04-13;240;Davide;Bianchi;Progettazione;5423
+2012-04-17;270;Davide;Bianchi;Progettazione;5423
+2012-04-18;330;Davide;Bianchi;Progettazione;5423
+2012-04-19;330;Davide;Bianchi;Progettazione;5423
+2012-04-20;330;Davide;Bianchi;Progettazione;5423
+2012-04-23;210;Davide;Bianchi;Progettazione;5423
+2012-04-24;180;Davide;Bianchi;Progettazione;5423
+2012-04-26;150;Davide;Bianchi;Progettazione;5423
+2012-04-27;30;Alberto;Franchi;Progettazione;5423
+2012-04-27;60;Davide;Bianchi;Progettazione;5423
+2012-04-27;240;Davide;Bianchi;Progettazione;5423
+2012-05-03;150;Davide;Bianchi;Progettazione;5423
+2012-05-07;90;Davide;Bianchi;Progettazione;5423
+2012-05-08;60;Davide;Bianchi;Progettazione;5423
+2012-05-15;120;Davide;Bianchi;Progettazione;5423
+2012-05-14;120;Davide;Bianchi;Progettazione;5423
+2012-05-16;120;Davide;Bianchi;Progettazione;5423
+2012-05-16;60;Davide;Bianchi;Varie;5423
+2012-05-17;300;Davide;Bianchi;Progettazione;5423
+2012-05-18;300;Davide;Bianchi;Progettazione;5423
+2012-05-21;240;Davide;Bianchi;Progettazione;5423
+2012-05-21;120;Davide;Bianchi;Progettazione;5423
+2012-05-22;120;Davide;Bianchi;Progettazione;5423
+2012-05-23;240;Davide;Bianchi;Progettazione;5423
+2012-05-28;60;Davide;Bianchi;Progettazione;5423
+2012-05-29;240;Davide;Bianchi;Progettazione;5423
+2012-05-29;90;Davide;Bianchi;Progettazione;5423
+2012-05-30;90;Davide;Bianchi;Varie;5423
+2012-05-30;60;Davide;Bianchi;Progettazione;5423
+2012-05-24;120;Davide;Bianchi;Progettazione;5423
+2012-05-25;300;Davide;Bianchi;Progettazione;5423
+2012-05-31;90;Davide;Bianchi;Progettazione;5423
+2012-06-01;60;Davide;Bianchi;Progettazione;5423
+2012-06-04;60;Davide;Bianchi;Varie;5423
+2012-06-04;60;Davide;Bianchi;Progettazione;5423
+2012-06-05;180;Davide;Bianchi;Progettazione;5423
+2012-06-06;120;Davide;Bianchi;Progettazione;5423
+2012-06-18;270;Davide;Bianchi;Progettazione;5423
+2012-06-20;300;Davide;Bianchi;Progettazione;5423
+2012-06-21;210;Davide;Bianchi;Progettazione;5423
+2012-06-21;90;Davide;Bianchi;Varie;5423
+2012-06-25;180;Davide;Bianchi;Progettazione;5423
+2012-06-26;90;Davide;Bianchi;Progettazione;5423
+2012-07-02;60;Davide;Bianchi;Progettazione;5423
+2012-07-03;60;Davide;Bianchi;Progettazione;5423
+2012-07-05;120;Davide;Bianchi;Progettazione;5423
+2012-07-04;150;Davide;Bianchi;Varie;5423
+2012-07-23;90;Davide;Bianchi;Varie;5423
+2012-07-24;120;Davide;Bianchi;Progettazione;5423
+2012-07-30;150;Davide;Bianchi;Progettazione;5423
+2012-07-31;300;Davide;Bianchi;Progettazione;5423
+2012-07-06;180;Davide;Bianchi;Progettazione;5423
+2012-08-01;90;Davide;Bianchi;Varie;5423
+2012-08-01;240;Davide;Bianchi;Progettazione;5423
+2012-08-02;210;Davide;Bianchi;Progettazione;5423
+2012-08-03;420;Davide;Bianchi;Progettazione;5423
+2012-08-06;390;Davide;Bianchi;Progettazione;5423
+2012-08-07;180;Davide;Bianchi;Progettazione;5423
+2012-08-07;60;Davide;Bianchi;Progettazione;5423
+2012-08-07;210;Davide;Bianchi;Progettazione;5423
+2012-08-08;210;Davide;Bianchi;Progettazione;5423
+2012-08-09;180;Davide;Bianchi;Progettazione;5423
+2012-08-10;120;Davide;Bianchi;Progettazione;5423
+2012-08-13;240;Davide;Bianchi;Progettazione;5423
+2012-08-13;240;Davide;Bianchi;Progettazione;5423
+2012-08-14;120;Davide;Bianchi;Progettazione;5423
+2012-08-14;180;Davide;Bianchi;Progettazione;5423
+2012-08-16;150;Davide;Bianchi;Progettazione;5423
+2012-08-21;120;Alberto;Bianchi;Varie;5423
+2012-08-29;240;Davide;Bianchi;Progettazione;5423
+2012-08-29;120;Davide;Bianchi;Progettazione;5423
+2012-08-29;90;Davide;Bianchi;Varie;5423
+2012-08-30;240;Davide;Bianchi;Progettazione;5423
+2012-08-31;120;Alberto;Bianchi;Sviluppo Ingegneria;5423
+2012-08-30;240;Davide;Corti;Progettazione;5423
+2012-08-31;480;Davide;Corti;Progettazione;5423
+2012-08-31;480;Davide;Bianchi;Progettazione;5423
+2012-09-04;90;Davide;Bianchi;Progettazione;5423
+2012-09-04;180;Davide;Bianchi;Progettazione;5423
+2012-09-03;60;Alberto;Bianchi;Riunione interna;5423
+2012-09-03;60;Alberto;Bianchi;Sviluppo Ingegneria;5423
+2012-09-03;240;Davide;Corti;Progettazione;5423
+2012-09-04;240;Davide;Corti;Progettazione;5423
+2012-09-05;300;Davide;Bianchi;Progettazione;5423
+2012-09-05;480;Davide;Corti;Progettazione;5423
+2012-09-05;90;Davide;Bianchi;Progettazione;5423
+2012-09-06;360;Davide;Bianchi;Progettazione;5423
+2012-09-06;60;Davide;Bianchi;Progettazione;5423
+2012-09-10;300;Davide;Bianchi;Progettazione;5423
+2012-09-07;210;Davide;Bianchi;Progettazione;5423
+2012-09-11;90;Alberto;Bianchi;Riunione interna;5423
+2012-09-11;90;Alberto;Bianchi;Sviluppo Ingegneria;5423
+2012-09-11;120;Davide;Bianchi;Varie;5423
+2012-09-11;90;Davide;Bianchi;Progettazione;5423
+2012-09-12;60;Davide;Bianchi;Progettazione;5423
+2012-09-12;60;Davide;Bianchi;Varie;5423
+2012-09-12;240;Davide;Bianchi;Progettazione;5423
+2012-09-12;120;Alberto;Bianchi;Sviluppo Ingegneria;5423
+2012-09-13;90;Davide;Bianchi;Varie;5423
+2012-09-13;120;Davide;Bianchi;Progettazione;5423
+2012-09-13;60;Davide;Bianchi;Progettazione;5423
+2012-09-10;60;Alberto;Franchi;Varie;5423
+2012-09-06;480;Davide;Corti;Progettazione;5423
+2012-09-07;480;Davide;Corti;Progettazione;5423
+2012-09-10;480;Davide;Corti;Progettazione;5423
+2012-09-11;480;Davide;Corti;Progettazione;5423
+2012-09-12;480;Davide;Corti;Progettazione;5423
+2012-09-14;480;Davide;Corti;Progettazione;5423
+2012-09-17;480;Davide;Corti;Progettazione;5423
+2012-09-18;120;Davide;Bianchi;Progettazione;5423
+2012-09-19;60;Davide;Bianchi;Varie;5423
+2012-09-19;120;Davide;Bianchi;Progettazione;5423
+2012-09-19;180;Davide;Bianchi;Progettazione;5423
+2012-09-20;60;Davide;Bianchi;Progettazione;5423
+2012-09-20;90;Davide;Bianchi;Progettazione;5423
+2012-09-21;180;Davide;Bianchi;Progettazione;5423
+2012-09-21;90;Davide;Bianchi;Varie;5423
+2012-09-21;150;Davide;Bianchi;Progettazione;5423
+2012-09-24;60;Davide;Bianchi;Progettazione;5423
+2012-09-24;150;Davide;Bianchi;Varie;5423
+2012-09-24;120;Davide;Bianchi;Progettazione;5423
+2012-09-26;390;Davide;Bianchi;Progettazione;5423
+2012-09-14;120;Davide;Bianchi;Progettazione;5423
+2012-09-27;330;Davide;Bianchi;Progettazione;5423
+2012-09-28;240;Davide;Bianchi;Progettazione;5423
+2012-09-25;300;Davide;Bianchi;Progettazione;5423
+2012-09-28;180;Davide;Bianchi;Progettazione;5423
+2012-09-20;240;Davide;Corti;Progettazione;5423
+2012-09-19;240;Davide;Corti;Progettazione;5423
+2012-09-21;480;Davide;Corti;Progettazione;5423
+2012-09-24;480;Davide;Corti;Progettazione;5423
+2012-09-25;480;Davide;Corti;Progettazione;5423
+2012-09-26;480;Davide;Corti;Progettazione;5423
+2012-09-28;240;Davide;Corti;Progettazione;5423
+2012-10-02;60;Davide;Bianchi;Varie;5423
+2012-10-02;180;Davide;Bianchi;Progettazione;5423
+2012-10-03;30;Davide;Bianchi;Varie;5423
+2012-10-03;210;Davide;Bianchi;Progettazione;5423
+2012-10-04;240;Davide;Bianchi;Progettazione;5423
+2012-10-01;480;Davide;Corti;Progettazione;5423
+2012-10-02;480;Davide;Corti;Progettazione;5423
+2012-10-03;480;Davide;Corti;Progettazione;5423
+2012-10-04;480;Davide;Corti;Progettazione;5423
+2012-10-08;120;Davide;Bianchi;Varie;5423
+2012-10-08;270;Davide;Bianchi;Progettazione;5423
+2012-10-09;240;Davide;Bianchi;Progettazione;5423
+2012-10-10;240;Davide;Bianchi;Progettazione;5423
+2012-10-10;60;Davide;Bianchi;Varie;5423
+2012-10-10;120;Davide;Bianchi;Progettazione;5423
+2012-10-18;60;Alberto;Franchi;Progettazione;5423
+2012-10-18;180;Davide;Bianchi;Varie;5423
+2012-10-19;120;Alberto;Bianchi;Sviluppo Ingegneria;5423
+2012-10-22;240;Alberto;Bianchi;Sviluppo Ingegneria;5423
+2012-10-22;90;Davide;Bianchi;Varie;5423
+2012-10-23;120;Davide;Bianchi;Varie;5423
+2012-10-23;60;Alberto;Bianchi;Acquisti;5423
+2012-10-23;240;Davide;Bianchi;Varie;5423
+2012-10-26;120;Davide;Bianchi;Varie;5423
+2012-10-25;180;Davide;Bianchi;Progettazione;5423
+2012-10-30;120;Davide;Bianchi;Progettazione;5423
+2012-10-17;120;Davide;Bianchi;Progettazione;5423
+2012-10-05;90;Davide;Bianchi;Progettazione;5423
+2012-10-05;150;Davide;Bianchi;Varie;5423
+2012-10-31;120;Alberto;Bianchi;Varie;5423
+2012-10-31;180;Davide;Bianchi;Progettazione;5423
+2012-11-06;120;Alberto;Bianchi;Acquisti;5423
+2012-11-06;60;Alberto;Franchi;Progettazione;5423
+2012-11-13;60;Alberto;Bianchi;Acquisti;5423
+2012-11-15;180;Davide;Bianchi;Progettazione;5423
+2012-11-15;90;Davide;Bianchi;Progettazione;5423
+2012-11-16;90;Davide;Bianchi;Varie;5423
+2012-11-16;90;Davide;Bianchi;Progettazione;5423
+2012-11-19;60;Davide;Bianchi;Progettazione;5423
+2012-11-19;90;Davide;Bianchi;Varie;5423
+2012-11-12;180;Alberto;Franchi;Progettazione;5423
+2012-11-26;60;Davide;Bianchi;Progettazione;5423
+2012-11-27;60;Davide;Bianchi;Varie;5423
+2012-11-28;90;Davide;Bianchi;Progettazione;5423
+2012-11-28;60;Davide;Bianchi;Progettazione;5423
+2012-11-28;60;Davide;Bianchi;Progettazione;5423
+2012-11-26;480;Davide;Corti;Progettazione;5423
+2012-11-27;480;Davide;Corti;Progettazione;5423
+2012-11-28;480;Davide;Corti;Progettazione;5423
+2012-11-05;660;Davide;Bianchi;Varie;5423
+2012-11-06;480;Davide;Bianchi;Progettazione;5423
+2012-11-07;480;Davide;Bianchi;Progettazione;5423
+2012-11-08;480;Davide;Bianchi;Progettazione;5423
+2012-11-09;480;Davide;Bianchi;Varie;5423
+2012-11-29;210;Davide;Bianchi;Progettazione;5423
+2012-11-13;240;Davide;Bianchi;Progettazione;5423
+2012-11-14;240;Davide;Bianchi;Progettazione;5423
+2012-11-30;180;Davide;Bianchi;Progettazione;5423
+2012-11-20;240;Davide;Bianchi;Progettazione;5423
+2012-12-05;210;Davide;Bianchi;Progettazione;5423
+2012-12-06;150;Davide;Bianchi;Progettazione;5423
+2012-12-03;150;Davide;Bianchi;Progettazione;5423
+2012-12-10;390;Davide;Bianchi;Progettazione;5423
+2012-12-11;240;Davide;Bianchi;Varie;5423
+2012-12-17;120;Davide;Bianchi;Progettazione;5423
+2012-12-17;150;Davide;Bianchi;Progettazione;5423
+2012-12-18;60;Davide;Bianchi;Progettazione;5423
+2012-12-18;90;Davide;Bianchi;Varie;5423
+2012-12-18;180;Davide;Bianchi;Progettazione;5423
+2012-12-19;420;Davide;Corti;Progettazione;5423
+2012-12-19;150;Davide;Bianchi;Progettazione;5423
+2012-12-19;180;Davide;Bianchi;Progettazione;5423
+2012-12-19;180;Davide;Bianchi;Progettazione;5423
+2012-12-20;90;Davide;Bianchi;Varie;5423
+2012-12-21;120;Davide;Bianchi;Varie;5423
+2012-03-06;180;Alberto;Franchi;Varie;5424
+2012-03-13;60;Alberto;Franchi;Progettazione;5424
+2012-03-30;60;Federico;Zorro;Progettazione;5424
+2012-04-05;120;Alberto;Franchi;Varie;5424
+2012-04-17;480;Davide;Corti;Progettazione;5424
+2012-04-18;480;Davide;Corti;Progettazione;5424
+2012-04-19;60;Alberto;Franchi;Varie;5424
+2012-04-23;480;Davide;Corti;Progettazione;5424
+2012-04-24;480;Davide;Corti;Progettazione;5424
+2012-04-27;180;Alberto;Franchi;Progettazione;5424
+2012-04-27;240;Davide;Corti;Progettazione;5424
+2012-04-19;480;Davide;Corti;Progettazione;5424
+2012-05-02;180;Alberto;Franchi;Progettazione;5424
+2012-05-04;120;Alberto;Franchi;Progettazione;5424
+2012-05-09;60;Alberto;Franchi;Progettazione;5424
+2012-05-08;60;Alberto;Franchi;Progettazione;5424
+2012-05-15;60;Alberto;Franchi;Progettazione;5424
+2012-05-17;30;Alberto;Franchi;Varie;5424
+2012-05-17;60;Alberto;Franchi;Progettazione;5424
+2012-05-18;180;Alberto;Franchi;Progettazione;5424
+2012-05-03;480;Davide;Corti;Progettazione;5424
+2012-05-04;480;Davide;Corti;Progettazione;5424
+2012-05-10;480;Davide;Corti;Progettazione;5424
+2012-05-23;180;Alberto;Franchi;Progettazione;5424
+2012-05-24;60;Alberto;Franchi;Varie;5424
+2012-05-24;120;Alberto;Franchi;Progettazione;5424
+2012-05-25;240;Alberto;Franchi;Progettazione;5424
+2012-05-29;60;Alberto;Franchi;Progettazione;5424
+2012-05-28;240;Alberto;Franchi;Progettazione;5424
+2012-05-30;240;Alberto;Franchi;Progettazione;5424
+2012-05-31;240;Alberto;Franchi;Progettazione;5424
+2012-05-31;120;Alberto;Franchi;Progettazione;5424
+2012-06-01;300;Alberto;Franchi;Progettazione;5424
+2012-06-05;60;Federico;Zorro;Progettazione;5424
+2012-06-05;240;Alberto;Franchi;Progettazione;5424
+2012-06-07;60;Alberto;Franchi;Varie;5424
+2012-06-06;60;Alberto;Franchi;Varie;5424
+2012-06-08;240;Alberto;Franchi;Progettazione;5424
+2012-06-11;480;Davide;Corti;Progettazione;5424
+2012-06-12;480;Davide;Corti;Progettazione;5424
+2012-06-14;480;Davide;Corti;Progettazione;5424
+2012-06-15;480;Davide;Corti;Progettazione;5424
+2012-06-18;480;Davide;Corti;Progettazione;5424
+2012-06-19;480;Davide;Corti;Progettazione;5424
+2012-06-20;480;Davide;Corti;Progettazione;5424
+2012-06-21;30;Alberto;Bianchi;Sviluppo Ingegneria;5424
+2012-06-21;480;Davide;Corti;Progettazione;5424
+2012-06-22;480;Davide;Corti;Progettazione;5424
+2012-06-27;480;Davide;Corti;Progettazione;5424
+2012-06-28;60;Alberto;Franchi;Progettazione;5424
+2012-06-29;60;Alberto;Franchi;Varie;5424
+2012-07-04;480;Alberto;Franchi;Progettazione;5424
+2012-07-05;120;Alberto;Franchi;Progettazione;5424
+2012-07-05;540;Davide;Corti;Progettazione;5424
+2012-07-06;480;Davide;Corti;Progettazione;5424
+2012-07-09;480;Davide;Corti;Progettazione;5424
+2012-07-19;480;Davide;Corti;Progettazione;5424
+2012-07-20;480;Davide;Corti;Progettazione;5424
+2012-07-25;480;Davide;Corti;Progettazione;5424
+2012-08-09;240;Alberto;Franchi;Collaudi officina;5424
+2012-08-27;30;Alberto;Bianchi;Acquisti;5424
+2012-08-08;480;Davide;Corti;Progettazione;5424
+2012-10-03;60;Alberto;Franchi;Progettazione;5424
+2012-10-24;120;Alberto;Franchi;Varie;5424
+2012-10-25;60;Alberto;Franchi;Progettazione;5424
+2012-10-29;120;Alberto;Franchi;Progettazione;5424
+2012-10-26;60;Alberto;Franchi;Varie;5424
+2012-10-31;60;Alberto;Franchi;Varie;5424
+2012-11-26;180;Alberto;Franchi;Progettazione;5424
+2012-12-12;480;Alberto;Franchi;Varie;5424
+2012-12-18;60;Alberto;Franchi;Progettazione;5424
+2012-03-20;60;Davide;Bianchi;Progettazione;5427
+2012-03-19;360;Davide;Bianchi;Progettazione;5427
+2012-03-21;270;Davide;Bianchi;Progettazione;5427
+2012-03-22;120;Davide;Bianchi;Varie;5427
+2012-03-22;60;Davide;Bianchi;Progettazione;5427
+2012-03-26;60;Davide;Bianchi;Progettazione;5427
+2012-03-27;120;Davide;Bianchi;Commerciale;5427
+2012-03-28;180;Davide;Bianchi;Commerciale;5427
+2012-03-01;180;Davide;Bianchi;Progettazione;5427
+2012-03-02;360;Davide;Bianchi;Progettazione;5427
+2012-03-05;450;Davide;Bianchi;Progettazione;5427
+2012-03-05;120;Davide;Bianchi;Progettazione;5427
+2012-03-07;120;Davide;Bianchi;Progettazione;5427
+2012-03-08;360;Davide;Bianchi;Progettazione;5427
+2012-03-09;420;Davide;Bianchi;Progettazione;5427
+2012-03-12;180;Davide;Bianchi;Progettazione;5427
+2012-03-13;360;Davide;Bianchi;Progettazione;5427
+2012-03-14;240;Davide;Bianchi;Progettazione;5427
+2012-03-15;240;Davide;Bianchi;Progettazione;5427
+2012-03-30;120;Davide;Bianchi;Commerciale;5427
+2012-04-04;210;Davide;Bianchi;Progettazione;5427
+2012-04-05;240;Davide;Bianchi;Progettazione;5427
+2012-04-05;120;Davide;Bianchi;Progettazione;5427
+2012-04-10;180;Davide;Bianchi;Varie;5427
+2012-04-11;240;Davide;Bianchi;Varie;5427
+2012-04-12;270;Davide;Bianchi;Progettazione;5427
+2012-04-13;60;Davide;Bianchi;Progettazione;5427
+2012-04-18;120;Davide;Bianchi;Varie;5427
+2012-04-19;120;Davide;Bianchi;Progettazione;5427
+2012-04-20;120;Davide;Bianchi;Varie;5427
+2012-04-23;90;Davide;Bianchi;Varie;5427
+2012-04-24;120;Davide;Bianchi;Varie;5427
+2012-04-24;120;Davide;Bianchi;Progettazione;5427
+2012-04-26;360;Davide;Bianchi;Varie;5427
+2012-04-27;90;Davide;Bianchi;Varie;5427
+2012-04-24;120;Alberto;Bianchi;Riunione interna;5427
+2012-05-03;60;Davide;Bianchi;Varie;5427
+2012-05-08;120;Davide;Bianchi;Varie;5427
+2012-05-08;60;Davide;Bianchi;Varie;5427
+2012-05-08;90;Davide;Bianchi;Varie;5427
+2012-05-08;120;Alberto;Bianchi;Riunione con fornitori;5427
+2012-05-14;60;Alberto;Franchi;Varie;5427
+2012-05-15;60;Davide;Bianchi;Varie;5427
+2012-05-15;90;Davide;Bianchi;Varie;5427
+2012-05-16;120;Davide;Bianchi;Progettazione;5427
+2012-05-17;90;Davide;Bianchi;Progettazione;5427
+2012-05-18;60;Davide;Bianchi;Varie;5427
+2012-05-18;120;Alberto;Bianchi;Riunione interna;5427
+2012-05-22;120;Davide;Bianchi;Varie;5427
+2012-05-22;120;Alberto;Bianchi;Sviluppo Ingegneria;5427
+2012-05-23;60;Davide;Bianchi;Varie;5427
+2012-05-25;60;Alberto;Franchi;Progettazione;5427
+2012-05-28;60;Davide;Bianchi;Varie;5427
+2012-05-28;180;Davide;Bianchi;Progettazione;5427
+2012-05-28;60;Alberto;Bianchi;Riunione con cliente;5427
+2012-05-29;120;Davide;Bianchi;Varie;5427
+2012-05-30;60;Davide;Bianchi;Varie;5427
+2012-05-24;120;Davide;Bianchi;Varie;5427
+2012-05-31;120;Davide;Bianchi;Progettazione;5427
+2012-05-31;90;Davide;Bianchi;Varie;5427
+2012-06-01;150;Davide;Bianchi;Varie;5427
+2012-06-01;60;Davide;Bianchi;Progettazione;5427
+2012-06-01;60;Davide;Bianchi;Varie;5427
+2012-06-05;120;Davide;Bianchi;Varie;5427
+2012-06-06;120;Davide;Bianchi;Varie;5427
+2012-06-21;120;Alberto;Bianchi;Sviluppo Ingegneria;5427
+2012-06-26;480;Alberto;Bianchi;Collaudo;5427
+2012-06-25;180;Davide;Bianchi;Varie;5427
+2012-06-25;180;Alberto;Bianchi;Collaudo;5427
+2012-06-28;180;Davide;Bianchi;Progettazione;5427
+2012-06-27;180;Davide;Bianchi;Progettazione;5427
+2012-06-28;60;Alberto;Bianchi;Riunione con fornitori;5427
+2012-06-28;60;Alberto;Bianchi;Sviluppo Ingegneria;5427
+2012-06-29;90;Davide;Bianchi;Varie;5427
+2012-07-03;60;Alberto;Bianchi;Varie;5427
+2012-07-05;60;Alberto;Bianchi;Riunione interna;5427
+2012-07-03;150;Davide;Bianchi;Progettazione;5427
+2012-07-05;90;Davide;Bianchi;Varie;5427
+2012-07-05;90;Davide;Bianchi;Progettazione;5427
+2012-07-05;90;Davide;Bianchi;Progettazione;5427
+2012-07-04;150;Davide;Bianchi;Varie;5427
+2012-07-09;120;Alberto;Bianchi;Sviluppo Ingegneria;5427
+2012-07-10;360;Alberto;Bianchi;Sviluppo Ingegneria;5427
+2012-07-11;120;Alberto;Bianchi;Sviluppo Ingegneria;5427
+2012-07-19;480;Alberto;Bianchi;Sviluppo Ingegneria;5427
+2012-07-20;240;Alberto;Bianchi;Sviluppo Ingegneria;5427
+2012-07-23;60;Alberto;Bianchi;Acquisti;5427
+2012-07-27;240;Alberto;Bianchi;Riunione con fornitori;5427
+2012-07-30;60;Davide;Bianchi;Varie;5427
+2012-08-07;60;Davide;Bianchi;Varie;5427
+2012-08-08;60;Davide;Bianchi;Varie;5427
+2012-08-09;90;Davide;Bianchi;Progettazione;5427
+2012-08-10;120;Davide;Bianchi;Varie;5427
+2012-08-10;150;Davide;Bianchi;Varie;5427
+2012-08-29;60;Davide;Bianchi;Varie;5427
+2012-08-30;150;Davide;Bianchi;Varie;5427
+2012-09-04;120;Davide;Bianchi;Progettazione;5427
+2012-09-04;60;Alberto;Bianchi;Sviluppo Ingegneria;5427
+2012-09-05;120;Davide;Bianchi;Varie;5427
+2012-09-06;30;Alberto;Bianchi;Riunione interna;5427
+2012-09-10;90;Davide;Bianchi;Varie;5427
+2012-09-11;60;Alberto;Bianchi;Riunione interna;5427
+2012-09-17;60;Alberto;Bianchi;Sviluppo Ingegneria;5427
+2012-09-18;60;Alberto;Bianchi;Acquisti;5427
+2012-09-18;90;Davide;Bianchi;Varie;5427
+2012-09-24;60;Alberto;Bianchi;Sviluppo Ingegneria;5427
+2012-09-14;210;Davide;Bianchi;Varie;5427
+2012-09-28;120;Alberto;Bianchi;Riunione con cliente;5427
+2012-09-25;210;Davide;Bianchi;Progettazione;5427
+2012-10-01;60;Alberto;Bianchi;Sviluppo Ingegneria;5427
+2012-10-04;60;Alberto;Bianchi;Acquisti;5427
+2012-10-08;60;Davide;Bianchi;Varie;5427
+2012-10-09;60;Davide;Bianchi;Varie;5427
+2012-10-18;60;Alberto;Franchi;Progettazione;5427
+2012-10-22;150;Davide;Bianchi;Varie;5427
+2012-10-30;60;Davide;Bianchi;Varie;5427
+2012-10-24;180;Davide;Bianchi;Varie;5427
+2012-10-05;240;Davide;Bianchi;Progettazione;5427
+2012-11-07;30;Alberto;Bianchi;Acquisti;5427
+2012-11-08;90;Alberto;Bianchi;Riunione con cliente;5427
+2012-11-12;60;Alberto;Bianchi;Sviluppo Ingegneria;5427
+2012-11-12;30;Alberto;Bianchi;Acquisti;5427
+2012-11-13;120;Alberto;Bianchi;Riunione con cliente;5427
+2012-11-16;90;Davide;Bianchi;Progettazione;5427
+2012-11-21;510;Davide;Bianchi;Varie;5427
+2012-11-26;60;Davide;Bianchi;Varie;5427
+2012-11-26;90;Davide;Bianchi;Progettazione;5427
+2012-11-13;240;Davide;Bianchi;Progettazione;5427
+2012-11-22;240;Davide;Bianchi;Progettazione;5427
+2012-11-14;240;Davide;Bianchi;Progettazione;5427
+2012-12-03;180;Alberto;Bianchi;Sviluppo Ingegneria;5427
+2012-12-06;240;Davide;Bianchi;Progettazione;5427
+2012-12-10;60;Alberto;Bianchi;Riunione con cliente;5427
+2012-12-20;240;Davide;Bianchi;Varie;5427
+2012-12-20;60;Davide;Bianchi;Varie;5427
+2012-12-21;60;Davide;Bianchi;Varie;5427
+2012-12-21;120;Alberto;Bianchi;Riunione con cliente;5427
+2012-03-07;60;Alberto;Franchi;Progettazione;5428
+2012-03-01;60;Alberto;Franchi;Progettazione;5428
+2012-03-27;120;Davide;Bianchi;Progettazione;5428
+2012-03-06;60;Davide;Bianchi;Progettazione;5428
+2012-03-13;120;Davide;Bianchi;Progettazione;5428
+2012-03-14;120;Davide;Bianchi;Progettazione;5428
+2012-04-02;120;Davide;Bianchi;Progettazione;5428
+2012-04-03;120;Davide;Bianchi;Progettazione;5428
+2012-04-03;60;Davide;Bianchi;Varie;5428
+2012-04-04;150;Davide;Bianchi;Progettazione;5428
+2012-04-06;120;Davide;Bianchi;Progettazione;5428
+2012-04-16;510;Davide;Bianchi;Progettazione;5428
+2012-04-17;180;Davide;Bianchi;Varie;5428
+2012-04-27;120;Davide;Bianchi;Varie;5428
+2012-05-02;60;Davide;Bianchi;Varie;5428
+2012-05-02;240;Davide;Bianchi;Varie;5428
+2012-05-02;180;Davide;Bianchi;Progettazione;5428
+2012-05-03;300;Davide;Bianchi;Varie;5428
+2012-05-04;510;Davide;Bianchi;Varie;5428
+2012-05-08;180;Davide;Bianchi;Varie;5428
+2012-05-10;1140;Davide;Bianchi;Varie;5428
+2012-05-09;510;Davide;Bianchi;Varie;5428
+2012-05-14;390;Davide;Bianchi;Varie;5428
+2012-05-15;180;Davide;Bianchi;Progettazione;5428
+2012-05-15;60;Davide;Bianchi;Varie;5428
+2012-05-16;60;Davide;Bianchi;Varie;5428
+2012-05-16;60;Alberto;Franchi;Progettazione;5428
+2012-05-17;30;Alberto;Franchi;Varie;5428
+2012-05-18;30;Alberto;Franchi;Varie;5428
+2012-05-18;30;Davide;Bianchi;Varie;5428
+2012-05-22;150;Davide;Bianchi;Progettazione;5428
+2012-05-23;90;Davide;Bianchi;Varie;5428
+2012-05-23;120;Davide;Bianchi;Varie;5428
+2012-05-22;60;Alberto;Franchi;Progettazione;5428
+2012-05-24;60;Alberto;Franchi;Varie;5428
+2012-05-28;120;Davide;Bianchi;Varie;5428
+2012-05-28;60;Davide;Bianchi;Varie;5428
+2012-05-28;60;Alberto;Franchi;Varie;5428
+2012-05-24;120;Davide;Bianchi;Varie;5428
+2012-05-25;180;Davide;Bianchi;Progettazione;5428
+2012-05-31;210;Davide;Bianchi;Progettazione;5428
+2012-06-01;60;Davide;Bianchi;Varie;5428
+2012-06-01;120;Davide;Bianchi;Progettazione;5428
+2012-06-04;60;Davide;Bianchi;Varie;5428
+2012-06-04;330;Davide;Bianchi;Progettazione;5428
+2012-06-05;90;Davide;Bianchi;Progettazione;5428
+2012-06-07;660;Davide;Bianchi;Collaudi officina;5428
+2012-06-08;180;Davide;Bianchi;Progettazione;5428
+2012-06-08;180;Davide;Bianchi;Progettazione;5428
+2012-06-18;240;Davide;Bianchi;Varie;5428
+2012-06-19;1020;Davide;Bianchi;Varie;5428
+2012-06-20;60;Davide;Bianchi;Varie;5428
+2012-06-21;120;Davide;Bianchi;Varie;5428
+2012-06-21;90;Davide;Bianchi;Varie;5428
+2012-06-26;90;Davide;Bianchi;Varie;5428
+2012-06-26;120;Davide;Bianchi;Varie;5428
+2012-06-28;150;Davide;Bianchi;Varie;5428
+2012-06-27;90;Davide;Bianchi;Varie;5428
+2012-06-11;840;Davide;Bianchi;Collaudi officina;5428
+2012-06-12;480;Davide;Bianchi;Collaudi officina;5428
+2012-06-13;480;Davide;Bianchi;Collaudi officina;5428
+2012-06-14;480;Davide;Bianchi;Collaudi officina;5428
+2012-06-15;480;Davide;Bianchi;Collaudi officina;5428
+2012-06-29;180;Davide;Bianchi;Varie;5428
+2012-06-29;240;Davide;Bianchi;Progettazione;5428
+2012-07-02;120;Davide;Bianchi;Varie;5428
+2012-07-02;90;Davide;Bianchi;Varie;5428
+2012-07-05;120;Davide;Bianchi;Varie;5428
+2012-07-04;60;Davide;Bianchi;Varie;5428
+2012-07-04;150;Davide;Bianchi;Progettazione;5428
+2012-07-03;150;Davide;Bianchi;Progettazione;5428
+2012-07-03;120;Davide;Bianchi;Varie;5428
+2012-07-06;60;Alberto;Franchi;Progettazione;5428
+2012-07-23;90;Davide;Bianchi;Varie;5428
+2012-07-24;60;Davide;Bianchi;Varie;5428
+2012-07-24;60;Davide;Bianchi;Varie;5428
+2012-07-31;90;Davide;Bianchi;Progettazione;5428
+2012-08-01;180;Davide;Bianchi;Varie;5428
+2012-08-02;90;Davide;Bianchi;Varie;5428
+2012-08-03;90;Davide;Bianchi;Varie;5428
+2012-08-06;120;Davide;Bianchi;Varie;5428
+2012-08-08;120;Davide;Bianchi;Varie;5428
+2012-08-09;60;Davide;Bianchi;Varie;5428
+2012-08-10;90;Davide;Bianchi;Varie;5428
+2012-08-14;120;Davide;Bianchi;Varie;5428
+2012-08-30;120;Davide;Bianchi;Varie;5428
+2012-09-04;60;Davide;Bianchi;Varie;5428
+2012-09-04;60;Davide;Bianchi;Varie;5428
+2012-09-06;90;Davide;Bianchi;Varie;5428
+2012-09-10;120;Davide;Bianchi;Varie;5428
+2012-09-07;210;Davide;Bianchi;Varie;5428
+2012-09-11;60;Davide;Bianchi;Varie;5428
+2012-09-13;240;Davide;Bianchi;Varie;5428
+2012-09-14;60;Alberto;Franchi;Varie;5428
+2012-09-18;60;Davide;Bianchi;Varie;5428
+2012-09-19;60;Davide;Bianchi;Varie;5428
+2012-09-19;90;Davide;Bianchi;Varie;5428
+2012-09-20;120;Davide;Bianchi;Varie;5428
+2012-09-21;60;Davide;Bianchi;Varie;5428
+2012-09-24;90;Davide;Bianchi;Varie;5428
+2012-09-24;60;Davide;Bianchi;Progettazione;5428
+2012-09-24;30;Davide;Bianchi;Varie;5428
+2012-09-26;120;Davide;Bianchi;Varie;5428
+2012-09-27;90;Davide;Bianchi;Varie;5428
+2012-09-03;150;Davide;Bianchi;Varie;5428
+2012-09-28;60;Davide;Bianchi;Varie;5428
+2012-10-03;180;Davide;Bianchi;Varie;5428
+2012-10-04;270;Davide;Bianchi;Varie;5428
+2012-10-08;60;Davide;Bianchi;Varie;5428
+2012-10-09;90;Davide;Bianchi;Varie;5428
+2012-10-09;120;Davide;Bianchi;Progettazione;5428
+2012-10-10;120;Davide;Bianchi;Varie;5428
+2012-10-10;120;Alberto;Franchi;Varie;5428
+2012-10-11;60;Alberto;Franchi;Progettazione;5428
+2012-10-11;540;Davide;Bianchi;Progettazione;5428
+2012-10-11;240;Alberto;Franchi;Varie;5428
+2012-10-12;60;Alberto;Franchi;Varie;5428
+2012-10-12;540;Davide;Bianchi;Progettazione;5428
+2012-10-15;540;Davide;Bianchi;Progettazione;5428
+2012-10-18;60;Davide;Bianchi;Varie;5428
+2012-10-18;90;Davide;Bianchi;Varie;5428
+2012-10-18;120;Davide;Bianchi;Progettazione;5428
+2012-10-26;120;Davide;Bianchi;Progettazione;5428
+2012-10-29;120;Davide;Bianchi;Varie;5428
+2012-10-29;150;Davide;Bianchi;Progettazione;5428
+2012-10-16;510;Davide;Bianchi;Progettazione;5428
+2012-10-17;270;Davide;Bianchi;Varie;5428
+2012-10-30;210;Davide;Bianchi;Varie;5428
+2012-10-30;120;Davide;Bianchi;Varie;5428
+2012-10-31;300;Davide;Bianchi;Varie;5428
+2012-11-08;60;Alberto;Franchi;Varie;5428
+2012-11-05;60;Alberto;Franchi;Varie;5428
+2012-11-15;150;Davide;Bianchi;Varie;5428
+2012-11-15;90;Davide;Bianchi;Varie;5428
+2012-11-16;180;Davide;Bianchi;Varie;5428
+2012-11-16;90;Davide;Bianchi;Varie;5428
+2012-11-19;210;Davide;Bianchi;Progettazione;5428
+2012-11-19;150;Davide;Bianchi;Varie;5428
+2012-11-21;120;Alberto;Franchi;Progettazione;5428
+2012-11-22;120;Alberto;Franchi;Progettazione;5428
+2012-11-23;510;Davide;Bianchi;Progettazione;5428
+2012-11-26;90;Davide;Bianchi;Varie;5428
+2012-11-26;210;Davide;Bianchi;Varie;5428
+2012-11-27;360;Davide;Bianchi;Progettazione;5428
+2012-11-27;90;Davide;Bianchi;Varie;5428
+2012-11-28;300;Davide;Bianchi;Progettazione;5428
+2012-11-29;300;Davide;Bianchi;Progettazione;5428
+2012-11-30;300;Davide;Bianchi;Progettazione;5428
+2012-11-20;240;Davide;Bianchi;Progettazione;5428
+2012-12-05;300;Davide;Bianchi;Progettazione;5428
+2012-12-06;120;Davide;Bianchi;Progettazione;5428
+2012-12-04;1140;Davide;Bianchi;Progettazione;5428
+2012-12-03;360;Davide;Bianchi;Progettazione;5428
+2012-12-07;330;Davide;Bianchi;Progettazione;5428
+2012-12-10;120;Davide;Bianchi;Progettazione;5428
+2012-12-11;300;Davide;Bianchi;Progettazione;5428
+2012-12-12;540;Davide;Bianchi;Progettazione;5428
+2012-12-17;240;Davide;Bianchi;Varie;5428
+2012-12-18;120;Davide;Bianchi;Varie;5428
+2012-12-13;300;Alberto;Franchi;Varie;5428
+2012-12-13;540;Davide;Bianchi;Progettazione;5428
+2012-12-14;510;Davide;Bianchi;Progettazione;5428
+2012-04-11;60;Alberto;Franchi;Progettazione;5433
+2012-05-14;30;Alberto;Franchi;Progettazione;5433
+2012-05-11;480;Davide;Corti;Progettazione;5433
+2012-05-14;480;Davide;Corti;Progettazione;5433
+2012-05-15;480;Davide;Corti;Progettazione;5433
+2012-05-21;360;Davide;Corti;Progettazione;5433
+2012-05-22;480;Davide;Corti;Progettazione;5433
+2012-05-23;480;Davide;Corti;Progettazione;5433
+2012-05-24;360;Davide;Corti;Progettazione;5433
+2012-05-25;240;Davide;Corti;Progettazione;5433
+2012-05-28;480;Davide;Corti;Progettazione;5433
+2012-05-31;480;Davide;Corti;Progettazione;5433
+2012-06-01;480;Davide;Corti;Progettazione;5433
+2012-06-04;480;Davide;Corti;Progettazione;5433
+2012-06-04;90;Federico;Zorro;Progettazione;5433
+2012-06-05;480;Davide;Corti;Progettazione;5433
+2012-06-07;480;Davide;Corti;Progettazione;5433
+2012-06-06;240;Davide;Corti;Progettazione;5433
+2012-06-08;480;Davide;Corti;Progettazione;5433
+2012-07-26;30;Federico;Zorro;Progettazione;5433
+2012-08-27;60;Alberto;Franchi;Varie;5433
+2012-03-13;60;Alberto;Franchi;Progettazione;5434
+2012-04-02;45;Davide;Serio;Commesse;5434
+2012-03-28;30;Davide;Serio;Commesse;5434
+2012-03-09;120;Alberto;Franchi;Acquisti;5435
+2012-03-08;180;Alberto;Franchi;Commerciale;5435
+2012-03-08;60;Alberto;Franchi;Progettazione;5435
+2012-03-07;120;Alberto;Franchi;Progettazione;5435
+2012-03-07;120;Alberto;Franchi;Progettazione;5435
+2012-03-01;60;Alberto;Franchi;Progettazione;5435
+2012-03-13;120;Alberto;Franchi;Acquisti;5435
+2012-03-13;30;Alberto;Franchi;Progettazione;5435
+2012-03-14;120;Alberto;Franchi;Acquisti;5435
+2012-03-15;120;Alberto;Franchi;Acquisti;5435
+2012-03-15;60;Alberto;Franchi;Varie;5435
+2012-03-19;60;Alberto;Franchi;Progettazione;5435
+2012-03-21;60;Alberto;Franchi;Progettazione;5435
+2012-03-27;120;Alberto;Franchi;Progettazione;5435
+2012-03-30;60;Alberto;Franchi;Progettazione;5435
+2012-04-12;240;Alberto;Franchi;Progettazione;5435
+2012-04-13;120;Alberto;Franchi;Progettazione;5435
+2012-04-16;60;Alberto;Franchi;Progettazione;5435
+2012-04-18;30;Alberto;Franchi;Progettazione;5435
+2012-04-26;90;Federico;Zorro;Varie;5435
+2012-04-20;210;Federico;Zorro;Varie;5435
+2012-05-02;30;Federico;Zorro;Varie;5435
+2012-05-03;90;Federico;Zorro;Progettazione;5435
+2012-05-04;90;Federico;Zorro;Progettazione;5435
+2012-05-03;60;Alberto;Franchi;Progettazione;5435
+2012-05-04;120;Alberto;Franchi;Progettazione;5435
+2012-05-07;120;Alberto;Franchi;Progettazione;5435
+2012-05-09;60;Alberto;Franchi;Progettazione;5435
+2012-05-08;120;Alberto;Franchi;Progettazione;5435
+2012-05-09;120;Federico;Zorro;Varie;5435
+2012-05-07;240;Federico;Zorro;Progettazione;5435
+2012-05-08;240;Federico;Zorro;Progettazione;5435
+2012-05-08;90;Federico;Zorro;Varie;5435
+2012-05-11;90;Federico;Zorro;Varie;5435
+2012-05-14;60;Federico;Zorro;Progettazione;5435
+2012-05-15;90;Federico;Zorro;Varie;5435
+2012-05-16;210;Federico;Zorro;Progettazione;5435
+2012-05-17;180;Federico;Zorro;Varie;5435
+2012-05-16;60;Alberto;Franchi;Progettazione;5435
+2012-05-17;60;Alberto;Franchi;Varie;5435
+2012-05-18;60;Federico;Zorro;Progettazione;5435
+2012-05-21;120;Federico;Zorro;Progettazione;5435
+2012-05-22;120;Federico;Zorro;Progettazione;5435
+2012-05-23;120;Federico;Zorro;Progettazione;5435
+2012-05-21;180;Alberto;Franchi;Progettazione;5435
+2012-05-22;180;Alberto;Franchi;Progettazione;5435
+2012-05-23;120;Alberto;Franchi;Varie;5435
+2012-05-24;120;Alberto;Franchi;Varie;5435
+2012-05-25;60;Alberto;Franchi;Varie;5435
+2012-05-23;90;Federico;Zorro;Varie;5435
+2012-05-24;60;Federico;Zorro;Varie;5435
+2012-05-24;60;Federico;Zorro;Progettazione;5435
+2012-05-25;60;Federico;Zorro;Varie;5435
+2012-05-28;60;Federico;Zorro;Progettazione;5435
+2012-05-29;120;Alberto;Franchi;Varie;5435
+2012-05-28;60;Alberto;Franchi;Varie;5435
+2012-05-30;60;Federico;Zorro;Progettazione;5435
+2012-06-01;90;Federico;Zorro;Progettazione;5435
+2012-06-05;90;Federico;Zorro;Varie;5435
+2012-06-11;60;Federico;Zorro;Progettazione;5435
+2012-07-05;240;Federico;Zorro;Progettazione;5435
+2012-07-09;270;Federico;Zorro;Progettazione;5435
+2012-07-10;90;Federico;Zorro;Progettazione;5435
+2012-07-11;120;Federico;Zorro;Progettazione;5435
+2012-07-12;300;Federico;Zorro;Progettazione;5435
+2012-07-13;240;Federico;Zorro;Progettazione;5435
+2012-07-13;90;Federico;Zorro;Varie;5435
+2012-07-23;180;Federico;Zorro;Progettazione;5435
+2012-07-24;300;Federico;Zorro;Progettazione;5435
+2012-07-24;30;Federico;Zorro;Varie;5435
+2012-07-24;120;Alberto;Bianchi;Sviluppo Ingegneria;5435
+2012-07-25;270;Federico;Zorro;Progettazione;5435
+2012-07-26;270;Federico;Zorro;Progettazione;5435
+2012-07-27;60;Federico;Zorro;Progettazione;5435
+2012-07-30;240;Federico;Zorro;Progettazione;5435
+2012-07-31;360;Federico;Zorro;Progettazione;5435
+2012-08-01;120;Federico;Zorro;Progettazione;5435
+2012-08-02;90;Federico;Zorro;Progettazione;5435
+2012-08-03;180;Federico;Zorro;Progettazione;5435
+2012-08-06;90;Federico;Zorro;Varie;5435
+2012-08-06;60;Federico;Zorro;Progettazione;5435
+2012-08-08;120;Federico;Zorro;Progettazione;5435
+2012-08-23;90;Federico;Zorro;Progettazione;5435
+2012-08-23;60;Federico;Zorro;Varie;5435
+2012-08-27;150;Federico;Zorro;Varie;5435
+2012-08-27;240;Federico;Zorro;Progettazione;5435
+2012-08-28;360;Federico;Zorro;Progettazione;5435
+2012-08-29;330;Federico;Zorro;Progettazione;5435
+2012-08-29;180;Alberto;Bianchi;Sviluppo Ingegneria;5435
+2012-08-30;60;Federico;Zorro;Progettazione;5435
+2012-08-31;60;Alberto;Franchi;Varie;5435
+2012-08-31;180;Federico;Zorro;Progettazione;5435
+2012-09-03;60;Federico;Zorro;Varie;5435
+2012-09-06;60;Federico;Zorro;Acquisti;5435
+2012-09-07;420;Federico;Zorro;Varie;5435
+2012-09-07;60;Federico;Zorro;Progettazione;5435
+2012-09-10;240;Federico;Zorro;Progettazione;5435
+2012-09-07;120;Alberto;Bianchi;Riunione con fornitori;5435
+2012-09-10;90;Alberto;Bianchi;Riunione interna;5435
+2012-09-12;120;Federico;Zorro;Varie;5435
+2012-09-13;60;Federico;Zorro;Varie;5435
+2012-09-13;120;Federico;Zorro;Progettazione;5435
+2012-09-17;60;Federico;Zorro;Varie;5435
+2012-09-06;120;Alberto;Franchi;Progettazione;5435
+2012-09-10;120;Alberto;Franchi;Varie;5435
+2012-09-14;60;Alberto;Franchi;Varie;5435
+2012-09-17;120;Alberto;Franchi;Progettazione;5435
+2012-09-18;120;Federico;Zorro;Progettazione;5435
+2012-09-19;120;Alberto;Bianchi;Varie;5435
+2012-09-19;240;Federico;Zorro;Varie;5435
+2012-09-21;120;Alberto;Bianchi;Riunione interna;5435
+2012-09-21;150;Federico;Zorro;Varie;5435
+2012-09-24;120;Alberto;Franchi;Varie;5435
+2012-09-18;120;Alberto;Franchi;Progettazione;5435
+2012-10-01;60;Federico;Zorro;Varie;5435
+2012-10-04;90;Federico;Zorro;Varie;5435
+2012-10-04;60;Alberto;Franchi;Progettazione;5435
+2012-10-05;60;Federico;Zorro;Progettazione;5435
+2012-10-09;240;Federico;Zorro;Varie;5435
+2012-10-09;300;Federico;Zorro;Progettazione;5435
+2012-10-10;90;Federico;Zorro;Progettazione;5435
+2012-10-11;240;Federico;Zorro;Progettazione;5435
+2012-10-16;60;Alberto;Franchi;Progettazione;5435
+2012-10-22;180;Federico;Zorro;Progettazione;5435
+2012-10-25;60;Alberto;Franchi;Progettazione;5435
+2012-11-05;180;Federico;Zorro;Progettazione;5435
+2012-11-06;360;Federico;Zorro;Progettazione;5435
+2012-11-07;300;Federico;Zorro;Progettazione;5435
+2012-11-09;180;Federico;Zorro;Progettazione;5435
+2012-11-12;60;Alberto;Bianchi;Sviluppo Ingegneria;5435
+2012-11-12;60;Federico;Zorro;Progettazione;5435
+2012-11-13;120;Alberto;Bianchi;Sviluppo Ingegneria;5435
+2012-11-13;120;Federico;Zorro;Progettazione;5435
+2012-11-27;120;Alberto;Franchi;Varie;5435
+2012-11-23;120;Federico;Zorro;Varie;5435
+2012-11-26;480;Federico;Zorro;Varie;5435
+2012-11-27;480;Federico;Zorro;Varie;5435
+2012-11-28;540;Federico;Zorro;Progettazione;5435
+2012-11-29;240;Federico;Zorro;Progettazione;5435
+2012-11-29;480;Federico;Zorro;Varie;5435
+2012-11-30;600;Federico;Zorro;Varie;5435
+2012-12-01;720;Federico;Zorro;Varie;5435
+2012-11-16;120;Federico;Zorro;Progettazione;5435
+2012-12-03;30;Alberto;Bianchi;Sviluppo Ingegneria;5435
+2012-12-03;120;Federico;Zorro;Varie;5435
+2012-12-04;300;Federico;Zorro;Progettazione;5435
+2012-12-05;120;Federico;Zorro;Varie;5435
+2012-12-06;180;Federico;Zorro;Commerciale;5435
+2012-12-10;60;Federico;Zorro;Acquisti;5435
+2012-12-13;180;Federico;Zorro;Varie;5435
+2012-12-13;60;Federico;Zorro;Progettazione;5435
+2012-12-20;120;Federico;Zorro;Commerciale;5435
+2012-12-21;60;Federico;Zorro;Varie;5435
+2012-12-28;60;Federico;Zorro;Commerciale;5435
+2012-03-22;60;Davide;Bianchi;Varie;5436
+2012-03-22;60;Alberto;Franchi;Progettazione;5436
+2012-03-06;120;Davide;Bianchi;Progettazione;5436
+2012-03-16;120;Davide;Bianchi;Progettazione;5436
+2012-05-02;30;Davide;Bianchi;Varie;5436
+2012-05-16;150;Davide;Bianchi;Progettazione;5436
+2012-05-17;120;Davide;Bianchi;Progettazione;5436
+2012-05-18;60;Davide;Bianchi;Progettazione;5436
+2012-05-18;60;Davide;Bianchi;Progettazione;5436
+2012-05-21;90;Davide;Bianchi;Progettazione;5436
+2012-06-25;150;Davide;Bianchi;Progettazione;5436
+2012-06-26;180;Davide;Bianchi;Progettazione;5436
+2012-06-28;180;Davide;Bianchi;Progettazione;5436
+2012-06-27;60;Davide;Bianchi;Progettazione;5436
+2012-06-27;180;Davide;Bianchi;Progettazione;5436
+2012-07-02;240;Davide;Bianchi;Progettazione;5436
+2012-07-23;90;Davide;Bianchi;Varie;5436
+2012-07-23;60;Davide;Bianchi;Varie;5436
+2012-07-23;120;Davide;Bianchi;Progettazione;5436
+2012-07-24;60;Davide;Bianchi;Varie;5436
+2012-07-24;90;Davide;Bianchi;Progettazione;5436
+2012-07-24;120;Davide;Bianchi;Varie;5436
+2012-07-30;300;Davide;Bianchi;Progettazione;5436
+2012-07-31;90;Davide;Bianchi;Varie;5436
+2012-07-25;660;Davide;Bianchi;Varie;5436
+2012-07-26;480;Davide;Bianchi;Varie;5436
+2012-07-27;480;Davide;Bianchi;Varie;5436
+2012-08-02;150;Davide;Bianchi;Varie;5436
+2012-08-14;60;Davide;Bianchi;Varie;5436
+2012-08-16;90;Davide;Bianchi;Progettazione;5436
+2012-08-16;240;Davide;Bianchi;Progettazione;5436
+2012-09-07;60;Davide;Bianchi;Progettazione;5436
+2012-09-12;150;Davide;Bianchi;Varie;5436
+2012-09-18;60;Davide;Bianchi;Varie;5436
+2012-09-27;90;Davide;Bianchi;Commerciale;5436
+2012-09-03;90;Davide;Bianchi;Varie;5436
+2012-09-03;120;Davide;Bianchi;Progettazione;5436
+2012-10-18;60;Davide;Bianchi;Commerciale;5436
+2012-10-29;150;Davide;Bianchi;Progettazione;5436
+2012-10-17;90;Davide;Bianchi;Varie;5436
+2012-11-22;240;Davide;Bianchi;Progettazione;5436
+2012-12-07;180;Davide;Bianchi;Progettazione;5436
+2012-12-18;60;Davide;Bianchi;Progettazione;5436
+2012-12-20;90;Davide;Bianchi;Progettazione;5436
+2012-12-21;270;Davide;Bianchi;Progettazione;5436
+2012-04-18;210;Alberto;Franchi;Progettazione;5437
+2012-03-12;120;Alberto;Franchi;Acquisti;5440
+2012-03-09;120;Alberto;Franchi;Progettazione;5440
+2012-03-08;120;Alberto;Franchi;Progettazione;5440
+2012-03-01;60;Alberto;Franchi;Progettazione;5440
+2012-03-13;90;Alberto;Franchi;Progettazione;5440
+2012-03-13;120;Alberto;Franchi;Progettazione;5440
+2012-03-13;30;Alberto;Franchi;Acquisti;5440
+2012-03-14;120;Alberto;Franchi;Progettazione;5440
+2012-03-19;120;Alberto;Franchi;Progettazione;5440
+2012-03-20;120;Alberto;Franchi;Progettazione;5440
+2012-03-22;60;Alberto;Franchi;Acquisti;5440
+2012-03-26;120;Alberto;Franchi;Progettazione;5440
+2012-03-23;180;Alberto;Franchi;Progettazione;5440
+2012-03-28;30;Federico;Zorro;Acquisti;5440
+2012-03-28;120;Alberto;Franchi;Progettazione;5440
+2012-03-29;180;Alberto;Franchi;Progettazione;5440
+2012-03-30;120;Alberto;Franchi;Varie;5440
+2012-04-02;120;Alberto;Franchi;Progettazione;5440
+2012-04-03;60;Alberto;Franchi;Progettazione;5440
+2012-04-05;60;Alberto;Franchi;Progettazione;5440
+2012-04-13;60;Federico;Zorro;Progettazione;5440
+2012-04-20;60;Alberto;Bianchi;Varie;5440
+2012-05-17;30;Alberto;Franchi;Varie;5440
+2012-05-22;120;Alberto;Franchi;Progettazione;5440
+2012-05-28;30;Davide;Bianchi;Varie;5440
+2012-06-05;60;Alberto;Franchi;Varie;5440
+2012-06-07;60;Alberto;Franchi;Progettazione;5440
+2012-06-19;30;Alberto;Franchi;Progettazione;5440
+2012-06-18;180;Alberto;Franchi;Progettazione;5440
+2012-07-10;120;Alberto;Bianchi;Collaudo;5440
+2012-07-31;60;Alberto;Franchi;Progettazione;5440
+2012-09-11;60;Alberto;Franchi;Varie;5440
+2012-03-19;30;Alberto;Franchi;Varie;5442
+2012-04-02;120;Federico;Zorro;Varie;5442
+2012-04-02;60;Alberto;Franchi;Varie;5442
+2012-04-05;180;Federico;Zorro;Acquisti;5442
+2012-04-06;60;Alberto;Franchi;Acquisti;5442
+2012-04-05;180;Alberto;Franchi;Acquisti;5442
+2012-04-06;30;Federico;Zorro;Varie;5442
+2012-04-13;120;Alberto;Franchi;Progettazione;5442
+2012-04-26;120;Alberto;Franchi;Varie;5442
+2012-05-03;60;Alberto;Franchi;Progettazione;5442
+2012-05-08;60;Alberto;Franchi;Varie;5442
+2012-05-17;30;Alberto;Franchi;Varie;5442
+2012-06-05;60;Alberto;Franchi;Varie;5442
+2012-06-18;60;Alberto;Franchi;Progettazione;5442
+2012-08-28;360;Davide;Corti;Progettazione;5442
+2012-08-29;480;Davide;Corti;Progettazione;5442
+2012-08-30;240;Davide;Corti;Progettazione;5442
+2012-09-14;60;Alberto;Franchi;Varie;5442
+2012-09-28;60;Alberto;Bianchi;Riunione interna;5442
+2012-09-27;480;Davide;Corti;Progettazione;5442
+2012-09-28;240;Davide;Corti;Progettazione;5442
+2012-10-04;240;Alberto;Bianchi;Sviluppo Ingegneria;5442
+2012-10-05;120;Davide;Corti;Progettazione;5442
+2012-11-08;60;Alberto;Bianchi;Varie;5442
+2012-12-03;180;Alberto;Bianchi;Sviluppo Ingegneria;5442
+2012-12-03;420;Davide;Corti;Progettazione;5442
+2012-12-04;480;Davide;Corti;Progettazione;5442
+2012-12-05;480;Davide;Corti;Progettazione;5442
+2012-12-06;480;Davide;Corti;Progettazione;5442
+2012-12-07;240;Davide;Corti;Progettazione;5442
+2012-12-10;480;Davide;Corti;Progettazione;5442
+2012-12-11;240;Davide;Corti;Progettazione;5442
+2012-12-20;120;Alberto;Franchi;Progettazione;5442
+2012-12-17;60;Alberto;Bianchi;Acquisti;5442
+2012-06-06;120;Alberto;Franchi;Varie;5443
+2012-06-19;120;Alberto;Franchi;Varie;5443
+2012-04-04;120;Alberto;Franchi;Varie;5444
+2012-04-04;60;Alberto;Bianchi;Riunione interna;5444
+2012-04-06;120;Alberto;Franchi;Varie;5444
+2012-04-10;60;Alberto;Franchi;Progettazione;5444
+2012-04-18;30;Alberto;Franchi;Progettazione;5444
+2012-04-19;60;Alberto;Franchi;Progettazione;5444
+2012-04-23;60;Alberto;Franchi;Progettazione;5444
+2012-04-26;180;Alberto;Franchi;Progettazione;5444
+2012-05-02;120;Alberto;Franchi;Progettazione;5444
+2012-05-08;60;Alberto;Franchi;Progettazione;5444
+2012-05-14;30;Alberto;Franchi;Progettazione;5444
+2012-05-16;180;Alberto;Franchi;Progettazione;5444
+2012-05-17;30;Alberto;Franchi;Varie;5444
+2012-05-22;60;Alberto;Franchi;Progettazione;5444
+2012-05-24;60;Alberto;Franchi;Varie;5444
+2012-06-15;240;Alberto;Franchi;Progettazione;5444
+2012-06-27;60;Alberto;Franchi;Varie;5444
+2012-06-29;60;Alberto;Franchi;Progettazione;5444
+2012-07-02;120;Alberto;Franchi;Progettazione;5444
+2012-07-06;60;Alberto;Franchi;Progettazione;5444
+2012-07-16;60;Alberto;Franchi;Varie;5444
+2012-07-18;60;Alberto;Franchi;Progettazione;5444
+2012-08-07;180;Alberto;Franchi;Progettazione;5444
+2012-08-27;30;Alberto;Bianchi;Acquisti;5444
+2012-08-31;60;Alberto;Franchi;Progettazione;5444
+2012-08-30;60;Alberto;Franchi;Progettazione;5444
+2012-09-14;180;Alberto;Franchi;Varie;5444
+2012-09-24;60;Alberto;Franchi;Progettazione;5444
+2012-10-09;60;Alberto;Franchi;Progettazione;5444
+2012-10-12;120;Alberto;Franchi;Varie;5444
+2012-10-29;60;Alberto;Franchi;Varie;5444
+2012-10-26;120;Alberto;Franchi;Progettazione;5444
+2012-11-08;60;Alberto;Franchi;Progettazione;5444
+2012-11-05;120;Alberto;Franchi;Progettazione;5444
+2012-11-20;120;Alberto;Franchi;Progettazione;5444
+2012-11-21;120;Alberto;Franchi;Progettazione;5444
+2012-11-22;120;Alberto;Franchi;Progettazione;5444
+2012-11-15;60;Alberto;Franchi;Progettazione;5444
+2012-11-27;120;Alberto;Franchi;Progettazione;5444
+2012-12-07;360;Alberto;Franchi;Varie;5444
+2012-12-10;240;Alberto;Franchi;Varie;5444
+2012-12-11;240;Alberto;Franchi;Varie;5444
+2012-12-13;180;Alberto;Franchi;Progettazione;5444
+2012-04-18;90;Alberto;Franchi;Varie;5446
+2012-04-26;60;Alberto;Franchi;Progettazione;5446
+2012-05-07;60;Alberto;Franchi;Varie;5446
+2012-05-15;180;Alberto;Franchi;Varie;5446
+2012-07-04;480;Davide;Corti;Progettazione;5446
+2012-07-10;240;Davide;Corti;Progettazione;5446
+2012-07-25;30;Alberto;Franchi;Varie;5446
+2012-08-01;480;Davide;Corti;Progettazione;5446
+2012-08-02;480;Davide;Corti;Progettazione;5446
+2012-08-06;480;Davide;Corti;Progettazione;5446
+2012-09-06;60;Alberto;Bianchi;Commerciale;5446
+2012-09-18;120;Alberto;Franchi;Varie;5446
+2012-09-24;60;Alberto;Franchi;Progettazione;5446
+2012-09-28;60;Alberto;Franchi;Varie;5446
+2012-10-05;240;Davide;Corti;Progettazione;5446
+2012-11-13;120;Alberto;Franchi;Progettazione;5446
+2012-04-18;30;Alberto;Franchi;Progettazione;5447
+2012-04-20;120;Alberto;Franchi;Varie;5447
+2012-05-07;60;Alberto;Franchi;Varie;5447
+2012-05-08;60;Alberto;Franchi;Varie;5447
+2012-07-25;120;Alberto;Bianchi;Riunione interna;5447
+2012-09-12;120;Alberto;Bianchi;Riunione con fornitori;5447
+2012-12-07;240;Davide;Corti;Progettazione;5447
+2012-05-29;60;Davide;Bianchi;Progettazione;5449
+2012-05-30;60;Alberto;Bianchi;Riunione con cliente;5449
+2012-05-30;60;Alberto;Bianchi;Sviluppo Ingegneria;5449
+2012-05-30;240;Davide;Bianchi;Progettazione;5449
+2012-05-24;120;Davide;Bianchi;Progettazione;5449
+2012-06-05;60;Alberto;Bianchi;Sviluppo Ingegneria;5449
+2012-06-20;150;Davide;Bianchi;Progettazione;5449
+2012-06-27;60;Alberto;Bianchi;Riunione interna;5449
+2012-06-27;60;Alberto;Bianchi;Acquisti;5449
+2012-07-23;60;Davide;Bianchi;Progettazione;5449
+2012-08-02;90;Davide;Bianchi;Varie;5449
+2012-08-08;120;Davide;Bianchi;Varie;5449
+2012-08-09;180;Davide;Bianchi;Varie;5449
+2012-08-27;510;Davide;Bianchi;Collaudi officina;5449
+2012-08-28;510;Davide;Bianchi;Collaudi officina;5449
+2012-10-19;510;Davide;Bianchi;As built;5449
+2012-10-22;270;Davide;Bianchi;As built;5449
+2012-10-22;240;Alberto;Bianchi;As built;5449
+2012-10-23;90;Davide;Bianchi;As built;5449
+2012-10-23;300;Alberto;Bianchi;As built;5449
+2012-10-23;480;Davide;Corti;Progettazione;5449
+2012-10-24;480;Davide;Corti;Progettazione;5449
+2012-10-25;240;Davide;Bianchi;As built;5449
+2012-10-25;60;Davide;Bianchi;Progettazione;5449
+2012-10-29;120;Davide;Bianchi;As built;5449
+2012-10-24;360;Davide;Bianchi;As built;5449
+2012-10-25;240;Davide;Corti;Progettazione;5449
+2012-11-05;30;Alberto;Bianchi;As built;5449
+2012-06-21;180;Alberto;Franchi;Commerciale;5451
+2012-06-22;120;Alberto;Franchi;Progettazione;5451
+2012-06-29;60;Alberto;Franchi;Progettazione;5451
+2012-07-17;120;Alberto;Franchi;Varie;5451
+2012-07-17;60;Alberto;Franchi;Progettazione;5451
+2012-07-25;120;Alberto;Franchi;Varie;5451
+2012-07-19;60;Alberto;Franchi;Progettazione;5451
+2012-07-20;180;Alberto;Franchi;Varie;5451
+2012-08-30;60;Alberto;Franchi;Varie;5451
+2012-09-13;240;Alberto;Franchi;Varie;5451
+2012-10-05;120;Alberto;Franchi;Varie;5451
+2012-10-03;120;Alberto;Franchi;Progettazione;5451
+2012-10-09;120;Alberto;Franchi;Progettazione;5451
+2012-10-11;180;Alberto;Franchi;Progettazione;5451
+2012-10-25;180;Alberto;Franchi;Progettazione;5451
+2012-10-29;120;Alberto;Franchi;Progettazione;5451
+2012-11-07;120;Alberto;Franchi;Varie;5451
+2012-11-16;240;Alberto;Franchi;Progettazione;5451
+2012-11-30;60;Alberto;Franchi;Varie;5451
+2012-08-10;120;Alberto;Franchi;Varie;5456
+2012-09-05;120;Alberto;Bianchi;Acquisti;5456
+2012-09-17;60;Alberto;Bianchi;Sviluppo Ingegneria;5456
+2012-09-18;60;Alberto;Bianchi;Acquisti;5456
+2012-09-20;120;Alberto;Bianchi;Sviluppo Ingegneria;5456
+2012-09-21;120;Alberto;Bianchi;Sviluppo Ingegneria;5456
+2012-08-31;240;Alberto;Franchi;Progettazione;5457
+2012-08-30;240;Alberto;Franchi;Progettazione;5457
+2012-08-29;180;Alberto;Franchi;Progettazione;5457
+2012-08-28;180;Alberto;Franchi;Varie;5457
+2012-08-28;180;Alberto;Franchi;Varie;5457
+2012-09-05;300;Alberto;Bianchi;Varie;5457
+2012-09-03;240;Alberto;Franchi;Progettazione;5457
+2012-09-04;360;Alberto;Franchi;Progettazione;5457
+2012-09-05;240;Alberto;Franchi;Progettazione;5457
+2012-09-06;240;Alberto;Franchi;Commerciale;5457
+2012-09-07;240;Alberto;Franchi;Progettazione;5457
+2012-09-11;60;Alberto;Franchi;Progettazione;5457
+2012-09-19;240;Alberto;Franchi;Varie;5457
+2012-09-18;120;Alberto;Franchi;Varie;5457
+2012-09-21;240;Alberto;Franchi;Progettazione;5457
+2012-10-31;120;Alberto;Franchi;Progettazione;5457
+2012-11-21;60;Alberto;Franchi;Progettazione;5457
+2012-11-22;120;Alberto;Franchi;Varie;5457
+2012-11-09;120;Alberto;Franchi;Progettazione;5457
+2012-12-13;180;Alberto;Bianchi;Riunione interna;5457
+2012-12-17;420;Davide;Corti;Progettazione;5457
+2012-12-18;480;Davide;Corti;Progettazione;5457
+2012-12-17;120;Alberto;Franchi;Varie;5457
+2012-12-28;390;Alberto;Bianchi;Sviluppo Ingegneria;5457
+2012-12-31;360;Alberto;Bianchi;Sviluppo Ingegneria;5457
+2012-03-28;180;Alberto;Franchi;Commerciale;CC
+2012-03-07;120;Alberto;Bianchi;Commerciale;CE
+2012-03-12;120;Alberto;Franchi;Commerciale;CE
+2012-03-06;60;Alberto;Franchi;Commerciale;CE
+2012-03-01;120;Alberto;Franchi;Commerciale;CE
+2012-03-15;60;Alberto;Bianchi;Commerciale;CE
+2012-03-19;30;Alberto;Franchi;Commerciale;CE
+2012-03-26;30;Alberto;Bianchi;Riunione interna;CE
+2012-03-29;240;Alberto;Bianchi;Commerciale;CE
+2012-03-30;60;Alberto;Franchi;Commerciale;CE
+2012-04-03;240;Alberto;Bianchi;Commerciale;CE
+2012-04-06;120;Alberto;Bianchi;Riunione con cliente;CE
+2012-04-05;120;Alberto;Bianchi;Riunione con fornitori;CE
+2012-04-05;120;Alberto;Bianchi;Commerciale;CE
+2012-04-06;180;Alberto;Franchi;Commerciale;CE
+2012-04-11;240;Alberto;Franchi;Commerciale;CE
+2012-04-11;60;Federico;Zorro;Commerciale;CE
+2012-04-12;60;Alberto;Franchi;Commerciale;CE
+2012-04-13;240;Alberto;Bianchi;Commerciale;CE
+2012-04-17;180;Alberto;Bianchi;Commerciale;CE
+2012-04-18;60;Alberto;Bianchi;Commerciale;CE
+2012-04-19;60;Alberto;Bianchi;Commerciale;CE
+2012-04-20;180;Alberto;Bianchi;Commerciale;CE
+2012-04-26;480;Alberto;Bianchi;Commerciale;CE
+2012-05-03;180;Alberto;Franchi;Commerciale;CE
+2012-05-03;120;Alberto;Franchi;Commerciale;CE
+2012-05-07;60;Alberto;Bianchi;Riunione interna;CE
+2012-05-08;120;Alberto;Bianchi;Commerciale;CE
+2012-05-15;180;Alberto;Bianchi;Commerciale;CE
+2012-05-16;120;Alberto;Bianchi;Riunione interna;CE
+2012-05-16;120;Alberto;Bianchi;Commerciale;CE
+2012-05-17;120;Alberto;Bianchi;Riunione interna;CE
+2012-05-23;60;Alberto;Bianchi;Sviluppo Ingegneria;CE
+2012-05-28;60;Alberto;Bianchi;Riunione interna;CE
+2012-05-30;120;Alberto;Bianchi;Commerciale;CE
+2012-06-04;60;Alberto;Bianchi;Riunione con fornitori;CE
+2012-06-04;180;Alberto;Franchi;Commerciale;CE
+2012-06-07;30;Alberto;Franchi;Varie;CE
+2012-06-11;240;Alberto;Bianchi;Riunione interna;CE
+2012-06-12;180;Alberto;Franchi;Commerciale;CE
+2012-06-18;240;Alberto;Bianchi;Commerciale;CE
+2012-06-18;60;Alberto;Franchi;Commerciale;CE
+2012-06-12;120;Alberto;Bianchi;Commerciale;CE
+2012-06-21;60;Alberto;Franchi;Commerciale;CE
+2012-06-28;120;Alberto;Franchi;Commerciale;CE
+2012-06-28;180;Alberto;Bianchi;Commerciale;CE
+2012-07-03;60;Alberto;Bianchi;Commerciale;CE
+2012-07-11;180;Alberto;Franchi;Commerciale;CE
+2012-07-13;180;Alberto;Franchi;Commerciale;CE
+2012-07-25;60;Alberto;Bianchi;Commerciale;CE
+2012-07-25;120;Alberto;Bianchi;Commerciale;CE
+2012-07-20;180;Alberto;Franchi;Commerciale;CE
+2012-08-22;60;Alberto;Bianchi;Riunione interna;CE
+2012-08-23;120;Alberto;Bianchi;Riunione interna;CE
+2012-09-06;210;Alberto;Bianchi;Commerciale;CE
+2012-09-14;120;Alberto;Bianchi;Riunione interna;CE
+2012-09-14;120;Alberto;Bianchi;Commerciale;CE
+2012-09-18;240;Alberto;Bianchi;Commerciale;CE
+2012-09-18;60;Federico;Zorro;Varie;CE
+2012-09-18;60;Davide;Bianchi;Varie;CE
+2012-09-19;180;Alberto;Bianchi;Commerciale;CE
+2012-09-20;240;Alberto;Bianchi;Riunione con cliente;CE
+2012-09-21;240;Alberto;Bianchi;Commerciale;CE
+2012-09-25;240;Alberto;Bianchi;Commerciale;CE
+2012-09-24;300;Alberto;Bianchi;Commerciale;CE
+2012-09-25;240;Alberto;Bianchi;Commerciale;CE
+2012-10-01;120;Alberto;Bianchi;Commerciale;CE
+2012-10-02;240;Alberto;Bianchi;Commerciale;CE
+2012-10-02;240;Alberto;Bianchi;Commerciale;CE
+2012-10-03;240;Alberto;Bianchi;Commerciale;CE
+2012-10-03;180;Alberto;Bianchi;Commerciale;CE
+2012-10-04;30;Federico;Zorro;Varie;CE
+2012-10-05;120;Alberto;Bianchi;Commerciale;CE
+2012-10-08;120;Alberto;Bianchi;Varie;CE
+2012-10-09;240;Alberto;Bianchi;Commerciale;CE
+2012-10-10;120;Federico;Zorro;Varie;CE
+2012-10-10;60;Alberto;Bianchi;Commerciale;CE
+2012-10-10;120;Alberto;Bianchi;Riunione interna;CE
+2012-10-10;120;Alberto;Franchi;Varie;CE
+2012-10-15;60;Alberto;Franchi;Varie;CE
+2012-10-16;120;Alberto;Franchi;Varie;CE
+2012-10-24;120;Alberto;Franchi;Varie;CE
+2012-11-06;30;Alberto;Bianchi;Commerciale;CE
+2012-11-06;180;Alberto;Bianchi;Commerciale;CE
+2012-11-07;60;Alberto;Bianchi;Riunione interna;CE
+2012-11-12;60;Alberto;Bianchi;Commerciale;CE
+2012-11-13;90;Alberto;Bianchi;Commerciale;CE
+2012-11-20;120;Alberto;Franchi;Commerciale;CE
+2012-11-21;60;Alberto;Franchi;Commerciale;CE
+2012-11-13;120;Alberto;Franchi;Commerciale;CE
+2012-12-06;30;Alberto;Bianchi;Commerciale;CE
+2012-12-05;120;Alberto;Franchi;Commerciale;CE
+2012-03-01;120;Alberto;Bianchi;Commerciale;CF
+2012-03-01;360;Alberto;Bianchi;Commerciale;CF
+2012-03-02;240;Alberto;Bianchi;Commerciale;CF
+2012-03-02;120;Alberto;Bianchi;Commerciale;CF
+2012-03-02;120;Alberto;Bianchi;Commerciale;CF
+2012-03-05;240;Alberto;Bianchi;Commerciale;CF
+2012-03-06;480;Alberto;Bianchi;Commerciale;CF
+2012-03-07;360;Alberto;Bianchi;Commerciale;CF
+2012-03-08;480;Alberto;Bianchi;Commerciale;CF
+2012-03-09;120;Alberto;Bianchi;Riunione interna;CF
+2012-03-09;360;Alberto;Bianchi;Commerciale;CF
+2012-03-12;240;Alberto;Bianchi;Commerciale;CF
+2012-03-13;240;Alberto;Bianchi;Commerciale;CF
+2012-03-14;180;Alberto;Bianchi;Commerciale;CF
+2012-03-14;60;Alberto;Bianchi;Riunione con fornitori;CF
+2012-03-14;240;Alberto;Bianchi;Commerciale;CF
+2012-03-15;300;Alberto;Bianchi;Commerciale;CF
+2012-03-16;120;Alberto;Bianchi;Commerciale;CF
+2012-03-19;60;Alberto;Bianchi;Commerciale;CF
+2012-03-19;180;Alberto;Bianchi;Commerciale;CF
+2012-03-20;120;Alberto;Bianchi;Commerciale;CF
+2012-03-22;480;Alberto;Bianchi;Commerciale;CF
+2012-03-23;480;Alberto;Bianchi;Commerciale;CF
+2012-03-21;240;Alberto;Bianchi;Commerciale;CF
+2012-03-26;120;Alberto;Bianchi;Commerciale;CF
+2012-03-27;360;Alberto;Bianchi;Riunione con cliente;CF
+2012-03-27;60;Alberto;Bianchi;Commerciale;CF
+2012-03-28;300;Alberto;Bianchi;Commerciale;CF
+2012-03-29;60;Alberto;Bianchi;Riunione con fornitori;CF
+2012-03-29;120;Alberto;Bianchi;Riunione interna;CF
+2012-03-29;60;Alberto;Bianchi;Commerciale;CF
+2012-04-02;480;Alberto;Bianchi;Riunione con cliente;CF
+2012-04-04;420;Alberto;Bianchi;Commerciale;CF
+2012-04-06;120;Alberto;Bianchi;Commerciale;CF
+2012-04-05;120;Alberto;Bianchi;Commerciale;CF
+2012-04-16;240;Alberto;Bianchi;Commerciale;CF
+2012-04-17;180;Alberto;Bianchi;Commerciale;CF
+2012-04-18;120;Alberto;Bianchi;Commerciale;CF
+2012-04-18;240;Alberto;Bianchi;Commerciale;CF
+2012-04-18;60;Alberto;Bianchi;Commerciale;CF
+2012-04-19;120;Alberto;Bianchi;Commerciale;CF
+2012-04-19;240;Alberto;Bianchi;Commerciale;CF
+2012-04-20;240;Alberto;Bianchi;Commerciale;CF
+2012-04-23;120;Alberto;Bianchi;Riunione interna;CF
+2012-04-23;120;Alberto;Bianchi;Varie;CF
+2012-05-02;60;Alberto;Bianchi;Commerciale;CF
+2012-05-02;240;Alberto;Bianchi;Commerciale;CF
+2012-05-03;240;Alberto;Bianchi;Commerciale;CF
+2012-05-04;240;Alberto;Bianchi;Commerciale;CF
+2012-05-07;120;Alberto;Bianchi;Commerciale;CF
+2012-05-09;480;Alberto;Bianchi;Commerciale;CF
+2012-05-10;480;Alberto;Bianchi;Commerciale;CF
+2012-05-11;480;Alberto;Bianchi;Commerciale;CF
+2012-05-08;180;Alberto;Bianchi;Commerciale;CF
+2012-05-15;60;Alberto;Bianchi;Riunione interna;CF
+2012-05-16;120;Alberto;Bianchi;Riunione interna;CF
+2012-05-21;240;Alberto;Bianchi;Commerciale;CF
+2012-05-18;360;Alberto;Bianchi;Commerciale;CF
+2012-05-17;240;Alberto;Bianchi;Commerciale;CF
+2012-05-22;300;Alberto;Bianchi;Commerciale;CF
+2012-05-23;240;Alberto;Bianchi;Commerciale;CF
+2012-05-23;120;Alberto;Bianchi;Commerciale;CF
+2012-05-25;480;Alberto;Bianchi;Commerciale;CF
+2012-05-24;240;Alberto;Bianchi;Riunione interna;CF
+2012-05-24;240;Alberto;Bianchi;Commerciale;CF
+2012-05-28;180;Alberto;Bianchi;Commerciale;CF
+2012-05-28;120;Alberto;Bianchi;Commerciale;CF
+2012-05-29;120;Alberto;Bianchi;Riunione interna;CF
+2012-05-29;300;Alberto;Bianchi;Commerciale;CF
+2012-05-30;240;Alberto;Bianchi;Commerciale;CF
+2012-05-31;120;Alberto;Bianchi;Commerciale;CF
+2012-05-31;120;Alberto;Bianchi;Varie;CF
+2012-05-31;60;Alberto;Bianchi;Riunione interna;CF
+2012-06-01;360;Alberto;Bianchi;Varie;CF
+2012-06-04;180;Alberto;Bianchi;Commerciale;CF
+2012-06-05;60;Alberto;Bianchi;Commerciale;CF
+2012-06-06;120;Alberto;Bianchi;Varie;CF
+2012-06-18;60;Alberto;Bianchi;Commerciale;CF
+2012-06-18;60;Alberto;Bianchi;Commerciale;CF
+2012-06-28;120;Alberto;Franchi;Commerciale;CF
+2012-06-29;60;Alberto;Franchi;Commerciale;CF
+2012-07-26;240;Alberto;Bianchi;Sviluppo Ingegneria;CF
+2012-07-27;240;Alberto;Bianchi;Sviluppo Ingegneria;CF
+2012-09-03;60;Alberto;Bianchi;Commerciale;CF
+2012-09-04;360;Alberto;Bianchi;Commerciale;CF
+2012-09-24;60;Alberto;Bianchi;Commerciale;CF
+2012-09-28;60;Alberto;Bianchi;Commerciale;CF
+2012-11-15;120;Alberto;Bianchi;Commerciale;CI
+2012-08-30;480;Alberto;Bianchi;Varie;DS
+2012-04-25;480;Davide;Corti;Varie;Festivita
+2012-04-09;480;Davide;Corti;Varie;Festivita
+2012-03-12;120;Alberto;Franchi;Varie;GE
+2012-03-09;240;Alberto;Franchi;Varie;GE
+2012-03-07;180;Alberto;Franchi;Varie;GE
+2012-03-05;60;Alberto;Franchi;Acquisti;GE
+2012-03-06;120;Alberto;Franchi;Varie;GE
+2012-03-02;180;Alberto;Franchi;Varie;GE
+2012-03-15;60;Alberto;Franchi;Varie;GE
+2012-03-15;120;Alberto;Franchi;Varie;GE
+2012-03-16;60;Alberto;Franchi;Progettazione;GE
+2012-03-16;180;Alberto;Franchi;Varie;GE
+2012-03-22;60;Alberto;Franchi;Commerciale;GE
+2012-03-07;150;Federico;Zorro;Varie;GE
+2012-03-07;480;Federico;Zorro;Varie;GE
+2012-03-08;480;Federico;Zorro;Varie;GE
+2012-03-08;150;Federico;Zorro;Varie;GE
+2012-03-09;60;Federico;Zorro;Varie;GE
+2012-03-09;60;Federico;Zorro;Varie;GE
+2012-03-12;60;Federico;Zorro;Varie;GE
+2012-03-26;120;Alberto;Franchi;Varie;GE
+2012-03-30;60;Alberto;Franchi;Varie;GE
+2012-03-29;240;Alberto;Franchi;Varie;GE
+2012-03-28;120;Alberto;Franchi;Varie;GE
+2012-03-30;120;Alberto;Franchi;Varie;GE
+2012-04-02;60;Alberto;Franchi;Varie;GE
+2012-04-04;180;Alberto;Franchi;Varie;GE
+2012-04-05;120;Alberto;Franchi;Varie;GE
+2012-04-10;240;Alberto;Franchi;Varie;GE
+2012-04-12;120;Alberto;Franchi;Varie;GE
+2012-04-13;210;Alberto;Franchi;Varie;GE
+2012-04-17;60;Alberto;Franchi;Progettazione;GE
+2012-04-17;180;Alberto;Franchi;Varie;GE
+2012-04-18;90;Alberto;Franchi;Varie;GE
+2012-04-19;120;Alberto;Franchi;Varie;GE
+2012-04-19;60;Alberto;Franchi;Varie;GE
+2012-04-20;60;Alberto;Franchi;Varie;GE
+2012-04-26;60;Alberto;Franchi;Varie;GE
+2012-04-26;180;Davide;Corti;Varie;GE
+2012-04-26;60;Alberto;Franchi;Varie;GE
+2012-04-24;120;Alberto;Bianchi;Riunione con fornitori;GE
+2012-05-08;60;Alberto;Franchi;Varie;GE
+2012-05-15;180;Alberto;Franchi;Varie;GE
+2012-05-15;240;Alberto;Bianchi;Riunione interna;GE
+2012-05-16;60;Alberto;Franchi;Varie;GE
+2012-05-30;30;Alberto;Franchi;Varie;GE
+2012-05-30;180;Davide;Corti;Varie;GE
+2012-06-04;240;Alberto;Franchi;Varie;GE
+2012-06-04;60;Alberto;Franchi;Varie;GE
+2012-06-05;120;Davide;Bianchi;Varie;GE
+2012-06-06;120;Alberto;Franchi;Varie;GE
+2012-06-12;60;Alberto;Franchi;Progettazione;GE
+2012-06-12;180;Alberto;Franchi;Varie;GE
+2012-06-14;120;Alberto;Franchi;Varie;GE
+2012-06-15;90;Alberto;Franchi;Varie;GE
+2012-06-18;60;Alberto;Franchi;Varie;GE
+2012-06-20;480;Alberto;Franchi;Varie;GE
+2012-06-21;60;Alberto;Franchi;Varie;GE
+2012-06-25;120;Alberto;Franchi;Varie;GE
+2012-06-28;60;Alberto;Franchi;Varie;GE
+2012-06-29;120;Alberto;Franchi;Progettazione;GE
+2012-06-28;480;Davide;Corti;Varie;GE
+2012-07-02;240;Alberto;Bianchi;Varie;GE
+2012-07-03;300;Alberto;Bianchi;Varie;GE
+2012-07-04;360;Alberto;Bianchi;Varie;GE
+2012-07-05;420;Alberto;Bianchi;Service;GE
+2012-07-05;120;Alberto;Franchi;Varie;GE
+2012-07-06;240;Alberto;Franchi;Varie;GE
+2012-07-02;480;Davide;Corti;Varie;GE
+2012-07-03;480;Davide;Corti;Varie;GE
+2012-07-06;240;Alberto;Bianchi;Riunione interna;GE
+2012-07-06;240;Alberto;Bianchi;Varie;GE
+2012-07-09;120;Alberto;Franchi;Varie;GE
+2012-07-12;480;Alberto;Bianchi;Riunione con fornitori;GE
+2012-07-12;360;Alberto;Franchi;Varie;GE
+2012-07-11;240;Davide;Corti;Varie;GE
+2012-07-16;180;Alberto;Franchi;Varie;GE
+2012-07-16;120;Alberto;Franchi;Varie;GE
+2012-07-23;90;Federico;Zorro;Varie;GE
+2012-07-17;480;Davide;Corti;Varie;GE
+2012-07-18;480;Davide;Corti;Varie;GE
+2012-07-23;240;Davide;Corti;Varie;GE
+2012-07-24;480;Davide;Corti;Varie;GE
+2012-07-25;60;Alberto;Franchi;Varie;GE
+2012-07-19;180;Alberto;Franchi;Progettazione;GE
+2012-07-23;180;Alberto;Franchi;Varie;GE
+2012-07-26;180;Alberto;Bianchi;Varie;GE
+2012-07-27;30;Federico;Zorro;Varie;GE
+2012-07-31;240;Davide;Corti;Varie;GE
+2012-07-31;30;Davide;Bianchi;Varie;GE
+2012-08-06;60;Federico;Zorro;Varie;GE
+2012-08-07;60;Federico;Zorro;Varie;GE
+2012-08-06;240;Alberto;Franchi;Varie;GE
+2012-08-17;90;Davide;Bianchi;Varie;GE
+2012-08-03;480;Davide;Corti;Varie;GE
+2012-08-07;480;Davide;Corti;Varie;GE
+2012-09-11;240;Federico;Zorro;Varie;GE
+2012-09-11;210;Davide;Bianchi;Varie;GE
+2012-09-11;120;Alberto;Franchi;Varie;GE
+2012-09-18;120;Davide;Bianchi;Varie;GE
+2012-09-20;240;Federico;Zorro;Varie;GE
+2012-10-02;180;Davide;Bianchi;Varie;GE
+2012-10-02;180;Federico;Zorro;Varie;GE
+2012-10-04;30;Federico;Zorro;Varie;GE
+2012-10-05;60;Alberto;Franchi;Varie;GE
+2012-10-05;60;Alberto;Franchi;Varie;GE
+2012-10-08;120;Alberto;Bianchi;Varie;GE
+2012-10-09;30;Alberto;Bianchi;Service;GE
+2012-10-09;30;Alberto;Bianchi;Varie;GE
+2012-10-19;240;Alberto;Franchi;Varie;GE
+2012-10-22;240;Alberto;Franchi;Varie;GE
+2012-10-23;480;Alberto;Franchi;Varie;GE
+2012-10-24;120;Alberto;Franchi;Varie;GE
+2012-10-25;60;Alberto;Franchi;Varie;GE
+2012-10-26;240;Federico;Zorro;Varie;GE
+2012-10-30;240;Alberto;Franchi;Varie;GE
+2012-10-29;60;Alberto;Franchi;Varie;GE
+2012-10-30;300;Federico;Zorro;Varie;GE
+2012-10-31;180;Federico;Zorro;Varie;GE
+2012-10-31;240;Alberto;Franchi;Varie;GE
+2012-11-07;240;Alberto;Franchi;Varie;GE
+2012-11-08;180;Alberto;Franchi;Varie;GE
+2012-11-14;90;Federico;Zorro;Acquisti;GE
+2012-11-15;120;Alberto;Franchi;Varie;GE
+2012-11-13;120;Alberto;Franchi;Varie;GE
+2012-11-12;120;Alberto;Franchi;Varie;GE
+2012-11-30;240;Davide;Corti;Varie;GE
+2012-11-28;120;Alberto;Franchi;Varie;GE
+2012-11-23;180;Federico;Zorro;Varie;GE
+2012-11-22;180;Federico;Zorro;Varie;GE
+2012-12-12;480;Davide;Corti;Varie;GE
+2012-03-05;240;Alberto;Bianchi;Riunione interna;Generale
+2012-03-12;240;Alberto;Bianchi;Riunione interna;Generale
+2012-03-12;240;Alberto;Franchi;Varie;Generale
+2012-03-09;30;Alberto;Franchi;Varie;Generale
+2012-03-05;240;Alberto;Franchi;Varie;Generale
+2012-03-14;120;Alberto;Franchi;Varie;Generale
+2012-03-16;120;Alberto;Franchi;Varie;Generale
+2012-03-19;240;Alberto;Franchi;Varie;Generale
+2012-03-15;120;Alberto;Bianchi;Varie;Generale
+2012-03-16;360;Alberto;Bianchi;Riunione interna;Generale
+2012-03-19;240;Alberto;Bianchi;Riunione interna;Generale
+2012-03-20;360;Alberto;Bianchi;Riunione con fornitori;Generale
+2012-03-21;240;Alberto;Franchi;Varie;Generale
+2012-03-20;120;Alberto;Franchi;Varie;Generale
+2012-03-21;120;Alberto;Franchi;Varie;Generale
+2012-03-22;60;Alberto;Franchi;Varie;Generale
+2012-03-21;240;Alberto;Bianchi;Riunione interna;Generale
+2012-03-26;240;Alberto;Bianchi;Riunione interna;Generale
+2012-03-26;240;Alberto;Franchi;Varie;Generale
+2012-03-27;120;Alberto;Franchi;Varie;Generale
+2012-03-23;180;Alberto;Franchi;Varie;Generale
+2012-03-27;60;Alberto;Bianchi;Varie;Generale
+2012-03-12;60;Davide;Corti;Varie;Generale
+2012-03-09;480;Davide;Corti;Varie;Generale
+2012-03-28;60;Federico;Zorro;Varie;Generale
+2012-03-28;120;Alberto;Bianchi;Varie;Generale
+2012-03-30;360;Alberto;Bianchi;Riunione interna;Generale
+2012-03-30;120;Alberto;Bianchi;Varie;Generale
+2012-03-02;480;Davide;Corti;Varie;Generale
+2012-04-02;60;Alberto;Franchi;Varie;Generale
+2012-04-02;60;Alberto;Franchi;Varie;Generale
+2012-04-02;120;Alberto;Franchi;Varie;Generale
+2012-04-03;60;Alberto;Bianchi;Varie;Generale
+2012-04-02;60;Alberto;Franchi;Varie;Generale
+2012-04-05;120;Alberto;Bianchi;Riunione interna;Generale
+2012-04-10;60;Alberto;Franchi;Varie;Generale
+2012-04-11;60;Alberto;Franchi;Varie;Generale
+2012-04-11;60;Alberto;Franchi;Varie;Generale
+2012-04-16;240;Alberto;Franchi;Varie;Generale
+2012-04-16;120;Alberto;Franchi;Varie;Generale
+2012-04-16;240;Alberto;Bianchi;Riunione interna;Generale
+2012-04-17;120;Alberto;Bianchi;Riunione interna;Generale
+2012-04-19;150;Alberto;Franchi;Varie;Generale
+2012-04-20;240;Alberto;Franchi;Varie;Generale
+2012-04-23;150;Alberto;Franchi;Varie;Generale
+2012-04-23;240;Alberto;Bianchi;Riunione interna;Generale
+2012-04-27;240;Alberto;Franchi;Varie;Generale
+2012-04-27;240;Davide;Corti;Varie;Generale
+2012-04-24;240;Alberto;Bianchi;Varie;Generale
+2012-05-02;180;Alberto;Bianchi;Varie;Generale
+2012-05-07;240;Alberto;Franchi;Varie;Generale
+2012-05-03;60;Alberto;Franchi;Varie;Generale
+2012-05-02;60;Alberto;Franchi;Varie;Generale
+2012-05-02;120;Alberto;Franchi;Varie;Generale
+2012-05-04;120;Alberto;Franchi;Varie;Generale
+2012-05-03;120;Alberto;Bianchi;Varie;Generale
+2012-05-04;240;Alberto;Bianchi;Varie;Generale
+2012-05-07;240;Alberto;Bianchi;Riunione interna;Generale
+2012-05-09;120;Alberto;Franchi;Varie;Generale
+2012-05-08;60;Alberto;Franchi;Acquisti;Generale
+2012-05-08;60;Alberto;Franchi;Acquisti;Generale
+2012-05-14;240;Alberto;Franchi;Varie;Generale
+2012-05-14;240;Alberto;Bianchi;Riunione interna;Generale
+2012-05-15;60;Alberto;Franchi;Varie;Generale
+2012-05-14;240;Alberto;Bianchi;Riunione interna;Generale
+2012-05-17;120;Alberto;Franchi;Varie;Generale
+2012-05-18;150;Alberto;Franchi;Varie;Generale
+2012-05-21;240;Alberto;Bianchi;Riunione interna;Generale
+2012-05-16;120;Alberto;Bianchi;Varie;Generale
+2012-05-17;120;Alberto;Bianchi;Varie;Generale
+2012-05-21;240;Alberto;Franchi;Varie;Generale
+2012-05-23;60;Alberto;Franchi;Varie;Generale
+2012-05-25;60;Alberto;Franchi;Varie;Generale
+2012-05-29;240;Alberto;Franchi;Varie;Generale
+2012-05-29;60;Alberto;Franchi;Varie;Generale
+2012-05-30;120;Alberto;Franchi;Varie;Generale
+2012-05-29;60;Alberto;Bianchi;Riunione interna;Generale
+2012-05-31;60;Alberto;Bianchi;Varie;Generale
+2012-06-01;60;Alberto;Bianchi;Riunione interna;Generale
+2012-06-01;60;Alberto;Bianchi;Varie;Generale
+2012-06-04;240;Alberto;Bianchi;Riunione interna;Generale
+2012-06-05;120;Alberto;Bianchi;Riunione con fornitori;Generale
+2012-06-05;60;Alberto;Bianchi;Varie;Generale
+2012-06-05;120;Alberto;Franchi;Varie;Generale
+2012-06-06;150;Alberto;Bianchi;Varie;Generale
+2012-06-07;120;Alberto;Bianchi;Riunione con fornitori;Generale
+2012-06-07;60;Alberto;Franchi;Varie;Generale
+2012-06-07;30;Alberto;Franchi;Varie;Generale
+2012-06-07;240;Alberto;Franchi;Varie;Generale
+2012-06-06;240;Davide;Corti;Varie;Generale
+2012-06-07;120;Alberto;Bianchi;Varie;Generale
+2012-06-07;240;Alberto;Bianchi;Varie;Generale
+2012-06-06;90;Alberto;Franchi;Varie;Generale
+2012-06-08;120;Alberto;Bianchi;Varie;Generale
+2012-06-08;270;Alberto;Bianchi;Varie;Generale
+2012-06-06;240;Federico;Zorro;Varie;Generale
+2012-06-06;240;Davide;Bianchi;Varie;Generale
+2012-06-11;60;Alberto;Bianchi;Varie;Generale
+2012-06-12;120;Alberto;Bianchi;Varie;Generale
+2012-06-12;120;Alberto;Bianchi;Varie;Generale
+2012-06-12;120;Alberto;Franchi;Varie;Generale
+2012-06-08;120;Alberto;Franchi;Varie;Generale
+2012-06-08;60;Alberto;Franchi;Varie;Generale
+2012-06-15;120;Alberto;Franchi;Varie;Generale
+2012-06-18;90;Alberto;Bianchi;Varie;Generale
+2012-06-19;300;Alberto;Bianchi;Varie;Generale
+2012-06-19;120;Alberto;Bianchi;Riunione interna;Generale
+2012-06-19;60;Alberto;Bianchi;Riunione interna;Generale
+2012-06-20;120;Alberto;Bianchi;Riunione interna;Generale
+2012-06-20;120;Alberto;Bianchi;Varie;Generale
+2012-06-12;120;Alberto;Bianchi;Varie;Generale
+2012-06-20;120;Alberto;Bianchi;Varie;Generale
+2012-06-21;90;Alberto;Franchi;Varie;Generale
+2012-06-21;60;Alberto;Bianchi;Varie;Generale
+2012-06-25;240;Alberto;Bianchi;Riunione interna;Generale
+2012-06-25;240;Alberto;Franchi;Varie;Generale
+2012-06-22;240;Alberto;Franchi;Varie;Generale
+2012-06-22;120;Alberto;Franchi;Varie;Generale
+2012-06-25;60;Alberto;Bianchi;Varie;Generale
+2012-06-26;480;Davide;Corti;Varie;Generale
+2012-06-25;120;Alberto;Franchi;Varie;Generale
+2012-06-27;120;Alberto;Franchi;Varie;Generale
+2012-06-27;180;Alberto;Bianchi;Riunione interna;Generale
+2012-06-27;60;Alberto;Bianchi;Varie;Generale
+2012-06-28;60;Alberto;Franchi;Varie;Generale
+2012-06-28;180;Alberto;Bianchi;Varie;Generale
+2012-06-29;60;Alberto;Franchi;Varie;Generale
+2012-06-29;120;Alberto;Bianchi;Riunione interna;Generale
+2012-06-29;240;Alberto;Bianchi;Varie;Generale
+2012-06-29;60;Alberto;Bianchi;Varie;Generale
+2012-07-02;240;Alberto;Bianchi;Riunione interna;Generale
+2012-07-04;120;Alberto;Bianchi;Varie;Generale
+2012-07-02;240;Alberto;Franchi;Varie;Generale
+2012-07-02;120;Alberto;Franchi;Varie;Generale
+2012-07-05;120;Alberto;Franchi;Varie;Generale
+2012-07-05;120;Alberto;Franchi;Varie;Generale
+2012-07-06;60;Alberto;Franchi;Varie;Generale
+2012-07-09;240;Alberto;Bianchi;Riunione interna;Generale
+2012-07-09;120;Alberto;Bianchi;Varie;Generale
+2012-07-10;180;Alberto;Franchi;Varie;Generale
+2012-07-09;240;Alberto;Franchi;Varie;Generale
+2012-07-09;120;Alberto;Franchi;Varie;Generale
+2012-07-17;240;Alberto;Bianchi;Riunione interna;Generale
+2012-07-12;60;Alberto;Franchi;Varie;Generale
+2012-07-13;180;Alberto;Franchi;Varie;Generale
+2012-07-11;60;Alberto;Franchi;Varie;Generale
+2012-07-17;120;Alberto;Bianchi;Varie;Generale
+2012-07-17;240;Alberto;Franchi;Varie;Generale
+2012-07-18;120;Alberto;Franchi;Varie;Generale
+2012-07-20;120;Alberto;Bianchi;Varie;Generale
+2012-07-23;60;Alberto;Bianchi;Varie;Generale
+2012-07-25;60;Alberto;Bianchi;Varie;Generale
+2012-07-25;120;Alberto;Franchi;Varie;Generale
+2012-07-19;240;Alberto;Franchi;Varie;Generale
+2012-07-23;120;Alberto;Franchi;Varie;Generale
+2012-07-25;60;Federico;Zorro;Varie;Generale
+2012-07-26;60;Alberto;Bianchi;Riunione con fornitori;Generale
+2012-07-30;240;Alberto;Franchi;Varie;Generale
+2012-07-26;480;Davide;Corti;Varie;Generale
+2012-07-27;480;Davide;Corti;Varie;Generale
+2012-07-30;480;Davide;Corti;Varie;Generale
+2012-07-31;240;Alberto;Franchi;Varie;Generale
+2012-07-26;480;Alberto;Franchi;Varie;Generale
+2012-07-27;420;Alberto;Franchi;Varie;Generale
+2012-08-01;120;Alberto;Franchi;Varie;Generale
+2012-08-03;240;Alberto;Franchi;Varie;Generale
+2012-08-03;60;Alberto;Franchi;Varie;Generale
+2012-08-07;60;Alberto;Franchi;Varie;Generale
+2012-08-08;240;Alberto;Franchi;Varie;Generale
+2012-08-09;120;Alberto;Franchi;Varie;Generale
+2012-08-10;60;Alberto;Franchi;Varie;Generale
+2012-08-10;120;Alberto;Franchi;Varie;Generale
+2012-08-20;480;Alberto;Bianchi;Varie;Generale
+2012-08-21;180;Alberto;Bianchi;Riunione interna;Generale
+2012-08-22;60;Alberto;Bianchi;Varie;Generale
+2012-08-24;120;Alberto;Bianchi;Varie;Generale
+2012-08-27;60;Alberto;Bianchi;Varie;Generale
+2012-08-28;60;Alberto;Bianchi;Varie;Generale
+2012-08-28;240;Alberto;Bianchi;Varie;Generale
+2012-08-29;60;Alberto;Bianchi;Varie;Generale
+2012-08-29;240;Alberto;Bianchi;Riunione interna;Generale
+2012-08-31;120;Alberto;Bianchi;Varie;Generale
+2012-08-31;60;Alberto;Franchi;Varie;Generale
+2012-08-30;60;Alberto;Franchi;Varie;Generale
+2012-08-29;240;Alberto;Franchi;Varie;Generale
+2012-08-29;60;Alberto;Franchi;Varie;Generale
+2012-08-28;120;Alberto;Franchi;Varie;Generale
+2012-08-31;90;Alberto;Bianchi;Riunione con fornitori;Generale
+2012-08-31;60;Alberto;Bianchi;Varie;Generale
+2012-09-03;240;Alberto;Bianchi;Riunione interna;Generale
+2012-09-03;60;Alberto;Bianchi;Varie;Generale
+2012-09-04;60;Alberto;Bianchi;Varie;Generale
+2012-09-05;60;Alberto;Bianchi;Varie;Generale
+2012-09-06;60;Alberto;Bianchi;Varie;Generale
+2012-09-07;120;Alberto;Bianchi;Varie;Generale
+2012-09-10;240;Alberto;Bianchi;Riunione interna;Generale
+2012-09-10;150;Alberto;Bianchi;Riunione interna;Generale
+2012-09-12;120;Alberto;Bianchi;Varie;Generale
+2012-09-11;240;Alberto;Bianchi;Riunione interna;Generale
+2012-09-12;120;Alberto;Bianchi;Varie;Generale
+2012-09-13;360;Alberto;Bianchi;Varie;Generale
+2012-09-13;60;Alberto;Bianchi;Varie;Generale
+2012-09-14;240;Alberto;Bianchi;Varie;Generale
+2012-09-17;240;Alberto;Bianchi;Riunione interna;Generale
+2012-09-17;120;Alberto;Bianchi;Varie;Generale
+2012-09-03;240;Alberto;Franchi;Varie;Generale
+2012-09-04;120;Alberto;Franchi;Varie;Generale
+2012-09-06;120;Alberto;Franchi;Varie;Generale
+2012-09-10;240;Alberto;Franchi;Varie;Generale
+2012-09-11;240;Alberto;Franchi;Varie;Generale
+2012-09-12;240;Alberto;Franchi;Varie;Generale
+2012-09-18;60;Alberto;Bianchi;Varie;Generale
+2012-09-17;240;Alberto;Franchi;Varie;Generale
+2012-09-18;120;Alberto;Franchi;Varie;Generale
+2012-09-18;60;Alberto;Bianchi;Varie;Generale
+2012-09-19;120;Alberto;Bianchi;Varie;Generale
+2012-09-19;60;Alberto;Bianchi;Varie;Generale
+2012-09-20;240;Alberto;Franchi;Varie;Generale
+2012-09-20;60;Alberto;Bianchi;Varie;Generale
+2012-09-20;240;Davide;Bianchi;Varie;Generale
+2012-09-24;60;Alberto;Bianchi;Varie;Generale
+2012-09-25;120;Alberto;Franchi;Varie;Generale
+2012-09-24;120;Alberto;Franchi;Varie;Generale
+2012-09-19;240;Alberto;Franchi;Varie;Generale
+2012-09-21;120;Alberto;Franchi;Varie;Generale
+2012-09-26;480;Alberto;Bianchi;Riunione con fornitori;Generale
+2012-09-27;480;Alberto;Bianchi;Riunione con fornitori;Generale
+2012-09-28;120;Alberto;Franchi;Varie;Generale
+2012-09-28;180;Alberto;Bianchi;Riunione interna;Generale
+2012-09-28;60;Alberto;Bianchi;Varie;Generale
+2012-10-01;180;Alberto;Bianchi;Riunione interna;Generale
+2012-10-01;60;Alberto;Bianchi;Riunione interna;Generale
+2012-10-01;60;Alberto;Bianchi;Varie;Generale
+2012-10-02;240;Alberto;Franchi;Varie;Generale
+2012-10-01;120;Alberto;Franchi;Varie;Generale
+2012-10-04;90;Alberto;Bianchi;Varie;Generale
+2012-10-04;90;Alberto;Bianchi;Varie;Generale
+2012-10-05;240;Alberto;Franchi;Varie;Generale
+2012-10-04;60;Alberto;Franchi;Varie;Generale
+2012-10-04;120;Alberto;Franchi;Varie;Generale
+2012-10-04;180;Alberto;Franchi;Varie;Generale
+2012-10-03;120;Alberto;Franchi;Varie;Generale
+2012-10-03;120;Alberto;Franchi;Varie;Generale
+2012-10-05;90;Alberto;Bianchi;Riunione con fornitori;Generale
+2012-10-05;90;Alberto;Bianchi;Varie;Generale
+2012-10-08;240;Alberto;Bianchi;Riunione interna;Generale
+2012-10-09;120;Alberto;Bianchi;Riunione con fornitori;Generale
+2012-10-09;60;Alberto;Bianchi;Varie;Generale
+2012-10-10;60;Alberto;Bianchi;Service;Generale
+2012-10-10;60;Alberto;Bianchi;Varie;Generale
+2012-10-10;60;Alberto;Bianchi;Varie;Generale
+2012-10-08;240;Alberto;Franchi;Varie;Generale
+2012-10-08;120;Alberto;Franchi;Varie;Generale
+2012-10-08;120;Alberto;Franchi;Varie;Generale
+2012-10-09;120;Alberto;Franchi;Varie;Generale
+2012-10-09;120;Alberto;Franchi;Varie;Generale
+2012-10-11;60;Alberto;Bianchi;Varie;Generale
+2012-10-12;60;Alberto;Franchi;Varie;Generale
+2012-10-12;60;Federico;Zorro;Varie;Generale
+2012-10-12;60;Alberto;Bianchi;Varie;Generale
+2012-10-15;240;Alberto;Bianchi;Riunione interna;Generale
+2012-10-16;120;Alberto;Bianchi;Service;Generale
+2012-10-16;120;Alberto;Bianchi;Riunione con fornitori;Generale
+2012-10-15;240;Alberto;Franchi;Varie;Generale
+2012-10-15;120;Alberto;Franchi;Varie;Generale
+2012-10-15;60;Alberto;Franchi;Varie;Generale
+2012-10-17;240;Alberto;Franchi;Varie;Generale
+2012-10-18;240;Alberto;Franchi;Varie;Generale
+2012-10-18;60;Alberto;Bianchi;Varie;Generale
+2012-10-19;120;Alberto;Franchi;Varie;Generale
+2012-10-19;240;Alberto;Bianchi;Varie;Generale
+2012-10-23;60;Davide;Bianchi;Commerciale;Generale
+2012-10-24;480;Alberto;Bianchi;Riunione con fornitori;Generale
+2012-10-23;120;Alberto;Bianchi;Varie;Generale
+2012-10-22;240;Alberto;Franchi;Varie;Generale
+2012-10-25;120;Alberto;Franchi;Varie;Generale
+2012-10-25;240;Alberto;Bianchi;Varie;Generale
+2012-10-25;240;Alberto;Bianchi;Sviluppo Ingegneria;Generale
+2012-10-26;240;Alberto;Bianchi;Riunione con fornitori;Generale
+2012-10-30;240;Alberto;Bianchi;Riunione interna;Generale
+2012-10-30;240;Alberto;Franchi;Varie;Generale
+2012-10-26;240;Alberto;Franchi;Varie;Generale
+2012-10-26;60;Alberto;Franchi;Varie;Generale
+2012-10-30;60;Alberto;Bianchi;Varie;Generale
+2012-10-26;120;Alberto;Bianchi;Riunione interna;Generale
+2012-10-26;120;Alberto;Bianchi;Sviluppo Ingegneria;Generale
+2012-10-31;120;Alberto;Bianchi;Varie;Generale
+2012-10-31;60;Alberto;Bianchi;Riunione interna;Generale
+2012-10-31;60;Alberto;Franchi;Varie;Generale
+2012-11-05;120;Alberto;Bianchi;Service;Generale
+2012-11-05;60;Alberto;Bianchi;Varie;Generale
+2012-11-06;90;Alberto;Bianchi;Varie;Generale
+2012-11-05;60;Alberto;Bianchi;Varie;Generale
+2012-11-07;120;Alberto;Bianchi;Service;Generale
+2012-11-05;240;Alberto;Franchi;Varie;Generale
+2012-11-08;120;Alberto;Bianchi;Riunione con fornitori;Generale
+2012-11-08;60;Alberto;Bianchi;Riunione con fornitori;Generale
+2012-11-08;60;Alberto;Bianchi;Varie;Generale
+2012-11-12;120;Alberto;Bianchi;Riunione interna;Generale
+2012-11-12;120;Alberto;Bianchi;Varie;Generale
+2012-11-13;90;Alberto;Bianchi;Varie;Generale
+2012-11-14;480;Alberto;Bianchi;Sviluppo Ingegneria;Generale
+2012-11-09;480;Alberto;Bianchi;Riunione con fornitori;Generale
+2012-11-15;180;Alberto;Bianchi;Sviluppo Ingegneria;Generale
+2012-11-20;120;Alberto;Franchi;Varie;Generale
+2012-11-22;120;Alberto;Franchi;Varie;Generale
+2012-11-19;240;Alberto;Franchi;Varie;Generale
+2012-11-16;120;Alberto;Franchi;Varie;Generale
+2012-11-12;60;Alberto;Franchi;Varie;Generale
+2012-11-12;120;Alberto;Franchi;Varie;Generale
+2012-11-09;180;Alberto;Franchi;Varie;Generale
+2012-11-09;60;Alberto;Franchi;Varie;Generale
+2012-11-08;120;Alberto;Franchi;Varie;Generale
+2012-11-19;240;Alberto;Bianchi;Riunione interna;Generale
+2012-11-26;120;Alberto;Bianchi;Riunione interna;Generale
+2012-11-07;60;Alberto;Bianchi;Varie;Generale
+2012-11-23;240;Alberto;Franchi;Varie;Generale
+2012-11-26;240;Alberto;Franchi;Varie;Generale
+2012-11-28;120;Alberto;Franchi;Varie;Generale
+2012-11-30;240;Alberto;Franchi;Varie;Generale
+2012-11-30;120;Alberto;Franchi;Varie;Generale
+2012-12-03;30;Alberto;Bianchi;Varie;Generale
+2012-12-04;120;Alberto;Bianchi;Acquisti;Generale
+2012-12-05;120;Alberto;Bianchi;Sviluppo Ingegneria;Generale
+2012-12-05;120;Alberto;Bianchi;Acquisti;Generale
+2012-12-05;240;Alberto;Bianchi;Acquisti;Generale
+2012-12-06;120;Alberto;Bianchi;Riunione con fornitori;Generale
+2012-12-06;120;Alberto;Bianchi;Varie;Generale
+2012-12-06;120;Alberto;Bianchi;Acquisti;Generale
+2012-12-07;120;Alberto;Bianchi;Acquisti;Generale
+2012-12-07;120;Alberto;Bianchi;Acquisti;Generale
+2012-12-07;60;Alberto;Bianchi;Varie;Generale
+2012-12-10;240;Alberto;Bianchi;Riunione interna;Generale
+2012-12-10;90;Alberto;Bianchi;Varie;Generale
+2012-12-10;240;Alberto;Franchi;Varie;Generale
+2012-12-06;420;Alberto;Franchi;Varie;Generale
+2012-12-05;240;Alberto;Franchi;Varie;Generale
+2012-12-04;240;Alberto;Franchi;Varie;Generale
+2012-12-03;240;Alberto;Franchi;Varie;Generale
+2012-12-11;120;Alberto;Bianchi;Acquisti;Generale
+2012-12-11;60;Alberto;Bianchi;Varie;Generale
+2012-12-13;90;Alberto;Bianchi;Acquisti;Generale
+2012-12-13;60;Alberto;Bianchi;Varie;Generale
+2012-12-13;60;Alberto;Bianchi;Acquisti;Generale
+2012-12-14;360;Alberto;Bianchi;Riunione interna;Generale
+2012-12-17;240;Alberto;Bianchi;Riunione interna;Generale
+2012-12-11;240;Alberto;Franchi;Varie;Generale
+2012-12-17;240;Alberto;Franchi;Varie;Generale
+2012-12-18;120;Alberto;Franchi;Varie;Generale
+2012-12-18;120;Alberto;Franchi;Varie;Generale
+2012-12-19;120;Alberto;Franchi;Varie;Generale
+2012-12-19;180;Alberto;Franchi;Varie;Generale
+2012-12-17;60;Alberto;Bianchi;Varie;Generale
+2012-12-21;30;Davide;Bianchi;Varie;Generale
+2012-12-21;120;Alberto;Bianchi;Varie;Generale
+2012-12-21;240;Alberto;Bianchi;Varie;Generale
+2012-05-17;480;Davide;Corti;Varie;GI
+2012-09-20;240;Davide;Corti;Varie;GI
+2012-03-06;120;Alberto;Franchi;Varie;GME
+2012-03-05;240;Alberto;Franchi;Varie;GME
+2012-03-05;60;Alberto;Franchi;Varie;GME
+2012-03-02;360;Alberto;Franchi;Varie;GME
+2012-03-01;300;Alberto;Franchi;Varie;GME
+2012-05-14;60;Alberto;Franchi;Varie;GME
+2012-05-18;30;Alberto;Franchi;Varie;GME
+2012-06-26;300;Alberto;Franchi;Varie;GME
+2012-06-27;240;Alberto;Franchi;Varie;GME
+2012-07-17;120;Alberto;Franchi;Varie;GME
+2012-10-03;90;Davide;Bianchi;Varie;GME
+2012-10-26;240;Davide;Bianchi;Varie;GME
+2012-09-20;60;Alberto;Bianchi;Riunione interna;GMF
+2012-11-30;60;Alberto;Franchi;Varie;GMG
+2012-04-10;480;Alberto;Bianchi;Malattia;Malattia
+2012-04-11;480;Alberto;Bianchi;Malattia;Malattia
+2012-04-12;480;Alberto;Bianchi;Malattia;Malattia
+2012-04-10;480;Davide;Corti;Varie;Malattia
+2012-04-11;480;Davide;Corti;Varie;Malattia
+2012-04-12;480;Davide;Corti;Varie;Malattia
+2012-04-13;480;Davide;Corti;Varie;Malattia
+2012-08-07;60;Federico;Zorro;Varie;Service Energia
